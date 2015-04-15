@@ -1,0 +1,1349 @@
+#. extracted from sfx2/source/dialog
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2011-04-12 00:14+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1370288525.0\n"
+
+#: alienwarn.src
+msgctxt ""
+"alienwarn.src\n"
+"RID_DLG_ALIEN_WARNING\n"
+"FT_INFOTEXT\n"
+"fixedtext.text"
+msgid ""
+"This document may contain formatting or content that cannot be saved in the currently selected file format \"%FORMATNAME\".\n"
+"\n"
+"Use the default ODF file format to be sure that the document is saved correctly."
+msgstr ""
+
+#: alienwarn.src
+msgctxt ""
+"alienwarn.src\n"
+"RID_DLG_ALIEN_WARNING\n"
+"PB_NO\n"
+"okbutton.text"
+msgid "~Use %FORMATNAME Format"
+msgstr "%FORMATNAME  रूप-रचना च बचाइयै रक्खो (~U)"
+
+#: alienwarn.src
+msgctxt ""
+"alienwarn.src\n"
+"RID_DLG_ALIEN_WARNING\n"
+"PB_YES\n"
+"cancelbutton.text"
+msgid "Use ~ODF Format"
+msgstr "ODF रूप-रचना च बचाइयै रक्खो (~O)"
+
+#: alienwarn.src
+msgctxt ""
+"alienwarn.src\n"
+"RID_DLG_ALIEN_WARNING\n"
+"PB_MOREINFO\n"
+"helpbutton.text"
+msgid "~More Information..."
+msgstr "मती जानकारी (~M)"
+
+#: alienwarn.src
+msgctxt ""
+"alienwarn.src\n"
+"RID_DLG_ALIEN_WARNING\n"
+"CB_WARNING_OFF\n"
+"checkbox.text"
+msgid "~Ask when not saving in ODF format"
+msgstr "जिसलै  ODF रूप-रचना च बचाइयै नेईं रक्खेआ जा करदा होऐ तां पुच्छो (~A)"
+
+#: alienwarn.src
+msgctxt ""
+"alienwarn.src\n"
+"RID_DLG_ALIEN_WARNING\n"
+"modaldialog.text"
+msgid "Confirm File Format"
+msgstr ""
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_RESET\n"
+"string.text"
+msgid "~Reset"
+msgstr "परतियै सैट्ट करो (~R)"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_APPLY\n"
+"string.text"
+msgid "Apply"
+msgstr "लागू करो"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_TABPAGE_MANAGESTYLES\n"
+"string.text"
+msgid "Organizer"
+msgstr "व्यवस्थापक"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MSG_TABPAGE_INVALIDNAME\n"
+"infobox.text"
+msgid "This name is already in use."
+msgstr "एह् नांऽ पैह्‌लें शा बरतून च ऐ."
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MSG_TABPAGE_INVALIDSTYLE\n"
+"infobox.text"
+msgid "This Style does not exist."
+msgstr "एह् शैली मजूद नेईं ऐ."
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MSG_TABPAGE_INVALIDPARENT\n"
+"infobox.text"
+msgid ""
+"This Style cannot be used as a base Style,\n"
+"because it would result in a recursive reference."
+msgstr ""
+"एह् शैली अधार शैली दे रूपै च नेईं बरतोई सकदी \n"
+" की जे इस कन्नै हवाला घड़ी-मुड़ी आई सकदा ऐ.  "
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MSG_POOL_STYLE_NAME\n"
+"infobox.text"
+msgid ""
+"Name already exists as a default Style.\n"
+"Please choose another name."
+msgstr ""
+"नांऽ बिलानिर्देश शैली दे रूपै च पैह्‌लें शा मजूद ऐ.   \n"
+" किरपा करियै होर दूआ नांऽ तालो. "
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_DELETE_STYLE_USED\n"
+"string.text"
+msgid ""
+"One or more of the selected styles is in use in this document.\n"
+"If you delete these styles, text will revert to the parent style.\n"
+msgstr ""
+"One or more of the selected styles is in use in this document.\n"
+"If you delete these styles, text will revert to the parent style.\n"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_DELETE_STYLE\n"
+"string.text"
+msgid "Styles in use: "
+msgstr "Styles in use: "
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_NEW\n"
+"menuitem.text"
+msgid "New..."
+msgstr "नमीं..."
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_EDIT\n"
+"menuitem.text"
+msgid "Modify..."
+msgstr "तरमीम करो..."
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_HIDE\n"
+"menuitem.text"
+msgid "Hide"
+msgstr "छपैलो"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_SHOW\n"
+"menuitem.text"
+msgid "Show"
+msgstr "दस्सो"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_DELETE\n"
+"menuitem.text"
+msgid "Delete..."
+msgstr "म्हेसो... (~c)"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"SID_NAVIGATOR\n"
+"string.text"
+msgid "Navigator"
+msgstr "मार्गनिर्देशक"
+
+#: dialog.src
+#, fuzzy
+msgctxt ""
+"dialog.src\n"
+"SID_TASKPANE\n"
+"string.text"
+msgid "Task Pane"
+msgstr "कम्म-काज पटल"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"SID_SIDEBAR\n"
+"string.text"
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MSG_ERROR_WRONG_CONFIRM\n"
+"errorbox.text"
+msgid "Faulty password confirmation"
+msgstr "दोशपूर्ण पासवर्ड दी पुश्टी"
+
+#: dialog.src
+#, fuzzy
+msgctxt ""
+"dialog.src\n"
+"STR_PDF_EXPORT_SEND\n"
+"string.text"
+msgid "Send"
+msgstr "भेजो"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_FONT_TABPAGE\n"
+"string.text"
+msgid "Font"
+msgstr "Font"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"STR_SFX_NEWOFFICEDOC\n"
+"string.text"
+msgid "%PRODUCTNAME document"
+msgstr "%PRODUCTNAME दस्तावेज"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"combobox.quickhelptext"
+msgid "Property Name"
+msgstr "विशेशता नांऽ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"1\n"
+"stringlist.text"
+msgid "Checked by"
+msgstr "द्वारा जांचत"
+
+#: dinfdlg.src
+#, fuzzy
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"2\n"
+"stringlist.text"
+msgid "Client"
+msgstr "मुवक्कल"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"3\n"
+"stringlist.text"
+msgid "Date completed"
+msgstr "पूरा करने दी तरीक"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"4\n"
+"stringlist.text"
+msgid "Department"
+msgstr "विभाग"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"5\n"
+"stringlist.text"
+msgid "Destinations"
+msgstr "मंजलां"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"6\n"
+"stringlist.text"
+msgid "Disposition"
+msgstr "प्रवृत्ति"
+
+#: dinfdlg.src
+#, fuzzy
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"7\n"
+"stringlist.text"
+msgid "Division"
+msgstr "तक्सीम"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"8\n"
+"stringlist.text"
+msgid "Document number"
+msgstr "दस्तावेज संख्या"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"9\n"
+"stringlist.text"
+msgid "Editor"
+msgstr "संपादक"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"10\n"
+"stringlist.text"
+msgid "E-Mail"
+msgstr "ई-मेल"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"11\n"
+"stringlist.text"
+msgid "Forward to"
+msgstr "गी फार्वर्ड करो"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"12\n"
+"stringlist.text"
+msgid "Group"
+msgstr "समूह् करो"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"13\n"
+"stringlist.text"
+msgid "Info"
+msgstr "जानकारी"
+
+#: dinfdlg.src
+#, fuzzy
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"14\n"
+"stringlist.text"
+msgid "Language"
+msgstr "भाशा"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"15\n"
+"stringlist.text"
+msgid "Mailstop"
+msgstr "मेल-स्टाप"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"16\n"
+"stringlist.text"
+msgid "Matter"
+msgstr "मसौदा"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"17\n"
+"stringlist.text"
+msgid "Office"
+msgstr "दफ्तर"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"18\n"
+"stringlist.text"
+msgid "Owner"
+msgstr "मालक"
+
+#: dinfdlg.src
+#, fuzzy
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"19\n"
+"stringlist.text"
+msgid "Project"
+msgstr "प्रोजैक्ट"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"20\n"
+"stringlist.text"
+msgid "Publisher"
+msgstr "प्रकाशक"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"21\n"
+"stringlist.text"
+msgid "Purpose"
+msgstr "मकसद"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"22\n"
+"stringlist.text"
+msgid "Received from"
+msgstr "थमां प्राप्त"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"23\n"
+"stringlist.text"
+msgid "Recorded by"
+msgstr "द्वारा रिकाड कीता गेदा"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"24\n"
+"stringlist.text"
+msgid "Recorded date"
+msgstr "रिकाड तरीक"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"25\n"
+"stringlist.text"
+msgid "Reference"
+msgstr "हवाला"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"26\n"
+"stringlist.text"
+msgid "Source"
+msgstr "स्रोत"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"27\n"
+"stringlist.text"
+msgid "Status"
+msgstr "वस्तु-स्थिति"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"28\n"
+"stringlist.text"
+msgid "Telephone number"
+msgstr "टैलीफोन नंबर"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"29\n"
+"stringlist.text"
+msgid "Typist"
+msgstr "टाइपिस्ट"
+
+#: dinfdlg.src
+#, fuzzy
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"30\n"
+"stringlist.text"
+msgid "URL"
+msgstr "URL"
+
+#: dinfdlg.src
+#, fuzzy
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"1\n"
+"stringlist.text"
+msgid "Text"
+msgstr "इबारत"
+
+#: dinfdlg.src
+#, fuzzy
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"2\n"
+"stringlist.text"
+msgid "DateTime"
+msgstr "समां तरीक"
+
+#: dinfdlg.src
+#, fuzzy
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"3\n"
+"stringlist.text"
+msgid "Date"
+msgstr "तरीक"
+
+#: dinfdlg.src
+#, fuzzy
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"4\n"
+"stringlist.text"
+msgid "Duration"
+msgstr "अरसा"
+
+#: dinfdlg.src
+#, fuzzy
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"5\n"
+"stringlist.text"
+msgid "Number"
+msgstr "संख्या"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"6\n"
+"stringlist.text"
+msgid "Yes or no"
+msgstr "हां जां नांह्"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_ST_DURATION_FORMAT\n"
+"string.text"
+msgid " Y: %1 M: %2 D: %3 H: %4 M: %5 S: %6"
+msgstr "Y: %1 M: %2 D: %3 H: %4 M: %5 S: %6"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_WIN_PROPERTY_YESNO\n"
+"RB_PROPERTY_YES\n"
+"radiobutton.text"
+msgid "Yes"
+msgstr "हां"
+
+#: dinfdlg.src
+#, fuzzy
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_WIN_PROPERTY_YESNO\n"
+"RB_PROPERTY_NO\n"
+"radiobutton.text"
+msgid "No"
+msgstr "नेईं"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_PB_PROPERTY_REMOVE\n"
+"imagebutton.quickhelptext"
+msgid "Remove Property"
+msgstr "विशेशता हटाओ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_QB_WRONG_TYPE\n"
+"querybox.text"
+msgid ""
+"The value entered does not match the specified type.\n"
+"The value will be stored as text."
+msgstr ""
+
+#: dinfdlg.src
+#, fuzzy
+msgctxt ""
+"dinfdlg.src\n"
+"RID_EDIT_DURATIONS\n"
+"FL_DURATION\n"
+"fixedline.text"
+msgid "Duration"
+msgstr "अरसा"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"RID_EDIT_DURATIONS\n"
+"CB_NEGATIVE\n"
+"checkbox.text"
+msgid "~Negative"
+msgstr "नैगटिव (~N)"
+
+#: dinfdlg.src
+#, fuzzy
+msgctxt ""
+"dinfdlg.src\n"
+"RID_EDIT_DURATIONS\n"
+"FT_YEAR\n"
+"fixedtext.text"
+msgid "~Years"
+msgstr "बʼरे (~Y)"
+
+#: dinfdlg.src
+#, fuzzy
+msgctxt ""
+"dinfdlg.src\n"
+"RID_EDIT_DURATIONS\n"
+"FT_MONTH\n"
+"fixedtext.text"
+msgid "~Months"
+msgstr "म्हीने (~M)"
+
+#: dinfdlg.src
+#, fuzzy
+msgctxt ""
+"dinfdlg.src\n"
+"RID_EDIT_DURATIONS\n"
+"FT_DAY\n"
+"fixedtext.text"
+msgid "~Days"
+msgstr "दिन (~D)"
+
+#: dinfdlg.src
+#, fuzzy
+msgctxt ""
+"dinfdlg.src\n"
+"RID_EDIT_DURATIONS\n"
+"FT_HOUR\n"
+"fixedtext.text"
+msgid "H~ours"
+msgstr "घैंटे (~o)"
+
+#: dinfdlg.src
+#, fuzzy
+msgctxt ""
+"dinfdlg.src\n"
+"RID_EDIT_DURATIONS\n"
+"FT_MINUTE\n"
+"fixedtext.text"
+msgid "Min~utes"
+msgstr "मिंट (~u)"
+
+#: dinfdlg.src
+#, fuzzy
+msgctxt ""
+"dinfdlg.src\n"
+"RID_EDIT_DURATIONS\n"
+"FT_SECOND\n"
+"fixedtext.text"
+msgid "~Seconds"
+msgstr "सकिंट (~S)"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"RID_EDIT_DURATIONS\n"
+"FT_MSECOND\n"
+"fixedtext.text"
+msgid "Millise~conds"
+msgstr "मिलि सकिंट (~c)"
+
+#: dinfdlg.src
+#, fuzzy
+msgctxt ""
+"dinfdlg.src\n"
+"RID_EDIT_DURATIONS\n"
+"modaldialog.text"
+msgid "Edit Duration"
+msgstr "अवधि गी संपादत करो"
+
+#: dinfedt.src
+msgctxt ""
+"dinfedt.src\n"
+"DLG_DOCINFO_EDT\n"
+"FL_INFO\n"
+"fixedline.text"
+msgid "Names"
+msgstr "नांऽ"
+
+#: dinfedt.src
+msgctxt ""
+"dinfedt.src\n"
+"DLG_DOCINFO_EDT\n"
+"modaldialog.text"
+msgid "Edit Field Names"
+msgstr "खेतर नांएं गी संपादत करो"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_FILEDLG_ACTUALVERSION\n"
+"string.text"
+msgid "Current version"
+msgstr "मजूद सरूप"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_EXPLORERFILE_EXPORT\n"
+"string.text"
+msgid "Export"
+msgstr "बरामद करो"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_EXPLORERFILE_INSERT\n"
+"string.text"
+msgid "Insert"
+msgstr "समावेश"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_EXPLORERFILE_BUTTONINSERT\n"
+"string.text"
+msgid "~Insert"
+msgstr "समावेश करो (~I)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_IMPORT_ALL\n"
+"string.text"
+msgid "<All formats>"
+msgstr "<सब रचनें>"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_AUTO_EXTENSION\n"
+"string.text"
+msgid "~Automatic file name extension"
+msgstr "स्वचलत फाइल नांऽ विस्तार (~A)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_SELECTION\n"
+"string.text"
+msgid "~Selection"
+msgstr "चोन (~S)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_INSERT_AS_LINK\n"
+"string.text"
+msgid "~Link"
+msgstr "कड़ी (~L)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_SHOW_PREVIEW\n"
+"string.text"
+msgid "Pr~eview"
+msgstr "पूर्वद्रिश्श (~e)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_READONLY\n"
+"string.text"
+msgid "~Read-only"
+msgstr "सिर्फ-पढ़नजोग (~R)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_PASSWORD\n"
+"string.text"
+msgid "Save with ~password"
+msgstr "पासवर्ड सनैं बचाइयै रक्खो (~p)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_FILTER_OPTIONS\n"
+"string.text"
+msgid "Edit ~filter settings"
+msgstr "संपादत करो पूनी सैट्टिंगां (~f)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_PLAY\n"
+"string.text"
+msgid "~Play"
+msgstr "चलाओ (~P)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_STOP\n"
+"string.text"
+msgid "Sto~p"
+msgstr "रोको (~p)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_OPEN\n"
+"string.text"
+msgid "~Open"
+msgstr "खोह्‌ल्लो (~O)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_SAVE\n"
+"string.text"
+msgid "~Save"
+msgstr "बचाइयै रक्खो (~S)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_SAVEACOPY\n"
+"string.text"
+msgid "Save a Copy"
+msgstr "Save a Copy"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_LB_IMAGE_TEMPLATE\n"
+"string.text"
+msgid "Style:"
+msgstr "शैली:"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_LB_TEMPLATES\n"
+"string.text"
+msgid "~Templates:"
+msgstr "सच्चे (~T)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_LB_VERSION\n"
+"string.text"
+msgid "~Version:"
+msgstr "सरूप (~V)"
+
+#: inputdlg.src
+msgctxt ""
+"inputdlg.src\n"
+"DLG_INPUT_BOX\n"
+"BTN_INPUT_OK\n"
+"pushbutton.text"
+msgid "OK"
+msgstr "OK"
+
+#: inputdlg.src
+msgctxt ""
+"inputdlg.src\n"
+"DLG_INPUT_BOX\n"
+"BTN_INPUT_CANCEL\n"
+"pushbutton.text"
+msgid "Cancel"
+msgstr "रद्द करो"
+
+#: mailwindow.src
+msgctxt ""
+"mailwindow.src\n"
+"RID_ERRBOX_MAIL_CONFIG\n"
+"errorbox.text"
+msgid "%PRODUCTNAME was unable to find a working e-mail configuration. Please save this document locally instead and attach it from within your e-mail client."
+msgstr ""
+"%PRODUCTNAME कम्म करदे ई-मेल संरूपण गी तुप्पने च असमर्थ हा. इस दे बदलै कृपा "
+"करियै इस दस्तावेज गी स्थानी ढंगै कन्नै बचाओ ते अपने ई-मेल मुवक्कल चा नत्थी "
+"करो."
+
+#: newstyle.src
+msgctxt ""
+"newstyle.src\n"
+"DLG_NEW_STYLE_BY_EXAMPLE\n"
+"FL_COL\n"
+"fixedline.text"
+msgid "Style name"
+msgstr "शैली नांऽ"
+
+#: newstyle.src
+msgctxt ""
+"newstyle.src\n"
+"DLG_NEW_STYLE_BY_EXAMPLE\n"
+"MSG_OVERWRITE\n"
+"querybox.text"
+msgid "Style already exists. Overwrite?"
+msgstr "शैली पैह्‌लें शा मजूद ऐ. क्या ओवरराइट करी दित्ती जाऽ?"
+
+#: newstyle.src
+msgctxt ""
+"newstyle.src\n"
+"DLG_NEW_STYLE_BY_EXAMPLE\n"
+"modaldialog.text"
+msgid "Create Style"
+msgstr "शैली सिरजो"
+
+#: recfloat.src
+msgctxt ""
+"recfloat.src\n"
+"SID_RECORDING_FLOATWINDOW\n"
+"floatingwindow.text"
+msgid "Record Macro"
+msgstr "मैक्रो रकाड करो"
+
+#: recfloat.src
+msgctxt ""
+"recfloat.src\n"
+"STR_MACRO_LOSS\n"
+"string.text"
+msgid "Do you really want to cancel the recording? Any steps recorded up to this point will be lost."
+msgstr ""
+"क्या तुस सच्चें रकाडिंग रद्द करना चांह्‌दे ओ ? इस बिंदु तगर रकाड होए दे कोई "
+"बी चरण गुआची सकदे न."
+
+#: recfloat.src
+msgctxt ""
+"recfloat.src\n"
+"STR_CANCEL_RECORDING\n"
+"string.text"
+msgid "Cancel Recording"
+msgstr "रकाडिंग रद्द करो"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_DLG_SEARCH\n"
+"FT_SEARCH\n"
+"fixedtext.text"
+msgid "~Search for"
+msgstr "दी खोज करो (~S)"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_DLG_SEARCH\n"
+"CB_WHOLEWORDS\n"
+"checkbox.text"
+msgid "~Whole words only"
+msgstr " सिर्फ समूलचे शब्द (~W)"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_DLG_SEARCH\n"
+"CB_MATCHCASE\n"
+"checkbox.text"
+msgid "~Match case"
+msgstr "केस मेल्लो (~M)"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_DLG_SEARCH\n"
+"CB_WRAPAROUND\n"
+"checkbox.text"
+msgid "Wrap ~around"
+msgstr "दुआलै लपेटो (~a)"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_DLG_SEARCH\n"
+"CB_BACKWARDS\n"
+"checkbox.text"
+msgid "~Backwards"
+msgstr "पछेडे (~B)"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_DLG_SEARCH\n"
+"PB_FIND\n"
+"pushbutton.text"
+msgid "~Find"
+msgstr "तुप्पो (~F)"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_DLG_SEARCH\n"
+"PB_CANCELFIND\n"
+"cancelbutton.text"
+msgid "~Close"
+msgstr "बन्द करो (~C)"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_DLG_SEARCH\n"
+"STR_TOGGLE\n"
+"string.text"
+msgid "Wrap ~around"
+msgstr "दुआलै लपेटो (~a)"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_DLG_SEARCH\n"
+"modelessdialog.text"
+msgid "Find on this Page"
+msgstr "इस सफे पर तुप्पो"
+
+#: taskpane.src
+msgctxt ""
+"taskpane.src\n"
+"STR_SFX_DOCK\n"
+"string.text"
+msgid "Dock"
+msgstr "डॉक करो"
+
+#: taskpane.src
+msgctxt ""
+"taskpane.src\n"
+"STR_SFX_UNDOCK\n"
+"string.text"
+msgid "Undock"
+msgstr "अनडाक करो"
+
+#: taskpane.src
+#, fuzzy
+msgctxt ""
+"taskpane.src\n"
+"STR_SFX_TASK_PANE_VIEW\n"
+"string.text"
+msgid "View"
+msgstr "द्रिश्श"
+
+#: taskpane.src
+#, fuzzy
+msgctxt ""
+"taskpane.src\n"
+"STR_SFX_TASKS\n"
+"string.text"
+msgid "Tasks"
+msgstr "कम्म-काज"
+
+#: templateinfodlg.src
+#, fuzzy
+msgctxt ""
+"templateinfodlg.src\n"
+"DLG_TEMPLATE_INFORMATION\n"
+"BTN_TEMPLATE_INFO_CLOSE\n"
+"pushbutton.text"
+msgid "Close"
+msgstr "बंद करो"
+
+#: templdlg.src
+#, fuzzy
+msgctxt ""
+"templdlg.src\n"
+"STR_STYLE_ELEMTLIST\n"
+"string.text"
+msgid "Style List"
+msgstr "शैली सूची"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"STR_STYLE_FILTER_HIERARCHICAL\n"
+"string.text"
+msgid "Hierarchical"
+msgstr "हाइरार्किकल"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"DLG_STYLE_DESIGNER.TB_ACTION\n"
+"SID_STYLE_WATERCAN\n"
+"toolboxitem.text"
+msgid "Fill Format Mode"
+msgstr "रूप-रचना अवस्था भरो"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"DLG_STYLE_DESIGNER.TB_ACTION\n"
+"SID_STYLE_NEW_BY_EXAMPLE\n"
+"toolboxitem.text"
+msgid "New Style from Selection"
+msgstr "चोन चा नमीं शैली"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"DLG_STYLE_DESIGNER.TB_ACTION\n"
+"SID_STYLE_UPDATE_BY_EXAMPLE\n"
+"toolboxitem.text"
+msgid "Update Style"
+msgstr "शैली अपडेट करो"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"DLG_STYLE_DESIGNER\n"
+"dockingwindow.text"
+msgid "Styles and Formatting"
+msgstr "शैलियां ते रूप-रचनाकरण"
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"DLG_VERSIONS\n"
+"GB_NEWVERSIONS\n"
+"fixedline.text"
+msgid "New versions"
+msgstr "नमें सरूप"
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"DLG_VERSIONS\n"
+"PB_SAVE\n"
+"pushbutton.text"
+msgid "Save ~New Version"
+msgstr "नमां सरूप    बचाइयै रक्खो (~N)"
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"DLG_VERSIONS\n"
+"CB_SAVEONCLOSE\n"
+"checkbox.text"
+msgid "~Always save a version on closing"
+msgstr "म्हेशा बंद करने पर इक सरूप बचाइयै रक्खो (~A)"
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"DLG_VERSIONS\n"
+"GB_OLDVERSIONS\n"
+"fixedline.text"
+msgid "Existing versions"
+msgstr "मजूद सरूप"
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"DLG_VERSIONS\n"
+"FT_DATETIME\n"
+"fixedtext.text"
+msgid "Date and time"
+msgstr "तरीक ते समां"
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"DLG_VERSIONS\n"
+"FT_SAVEDBY\n"
+"fixedtext.text"
+msgid "Saved by"
+msgstr "आसेआ बचाया गेआ"
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"DLG_VERSIONS\n"
+"FT_COMMENTS\n"
+"fixedtext.text"
+msgid "Comments"
+msgstr "टिप्पणियां"
+
+#: versdlg.src
+#, fuzzy
+msgctxt ""
+"versdlg.src\n"
+"DLG_VERSIONS\n"
+"PB_CLOSE\n"
+"cancelbutton.text"
+msgid "Close"
+msgstr "बंद करो"
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"DLG_VERSIONS\n"
+"PB_OPEN\n"
+"pushbutton.text"
+msgid "Open"
+msgstr "खोह्‌ल्लो"
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"DLG_VERSIONS\n"
+"PB_VIEW\n"
+"pushbutton.text"
+msgid "~Show..."
+msgstr "दस्सो (~S)"
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"DLG_VERSIONS\n"
+"PB_DELETE\n"
+"pushbutton.text"
+msgid "~Delete"
+msgstr "म्हेसो (~D)"
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"DLG_VERSIONS\n"
+"PB_COMPARE\n"
+"pushbutton.text"
+msgid "Compare"
+msgstr "तुलना करो"
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"DLG_VERSIONS\n"
+"modaldialog.text"
+msgid "Versions of"
+msgstr "दे सरूप"
+
+#: versdlg.src
+#, fuzzy
+msgctxt ""
+"versdlg.src\n"
+"DLG_COMMENTS\n"
+"FT_DATETIME\n"
+"fixedtext.text"
+msgid "Date and time: "
+msgstr "तरीक ते समां: "
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"DLG_COMMENTS\n"
+"FT_SAVEDBY\n"
+"fixedtext.text"
+msgid "Saved by "
+msgstr "आसेआ बचाया गेआ "
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"DLG_COMMENTS\n"
+"PB_CLOSE\n"
+"pushbutton.text"
+msgid "~Close"
+msgstr "बन्द करो (~C)"
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"DLG_COMMENTS\n"
+"modaldialog.text"
+msgid "Insert Version Comment"
+msgstr "सरूप टिप्पणी दा समावेश करो"
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"DLG_COMMENTS\n"
+"string.text"
+msgid "Version comment"
+msgstr "सरूप टिप्पणी"
+
+#: versdlg.src
+#, fuzzy
+msgctxt ""
+"versdlg.src\n"
+"STR_VIEWVERSIONCOMMENT\n"
+"string.text"
+msgid "View Version Comment"
+msgstr "सरूप टिप्पणी दा समावेश करो"

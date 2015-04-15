@@ -1,0 +1,429 @@
+#. extracted from sw/source/ui/misc
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2011-05-09 21:07+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1370289573.0\n"
+
+#: docfnote.src
+msgctxt ""
+"docfnote.src\n"
+"DLG_DOC_FOOTNOTE.1\n"
+"TP_FOOTNOTEOPTION\n"
+"pageitem.text"
+msgid "Footnotes"
+msgstr "फुटनोट"
+
+#: docfnote.src
+msgctxt ""
+"docfnote.src\n"
+"DLG_DOC_FOOTNOTE.1\n"
+"TP_ENDNOTEOPTION\n"
+"pageitem.text"
+msgid "Endnotes"
+msgstr "खीरीनोट"
+
+#: docfnote.src
+msgctxt ""
+"docfnote.src\n"
+"DLG_DOC_FOOTNOTE\n"
+"tabdialog.text"
+msgid "Footnotes/Endnotes Settings"
+msgstr "फुटनोट सैट्टिंगां"
+
+#: glossary.src
+msgctxt ""
+"glossary.src\n"
+"MSG_DOUBLE_SHORTNAME\n"
+"infobox.text"
+msgid "Shortcut name already exists. Please choose another name."
+msgstr "लौह्‌का नांऽ पैह्‌लें शा मजूद ऐ. किरपा करियै दूआ नांऽ तालो."
+
+#: glossary.src
+msgctxt ""
+"glossary.src\n"
+"MSG_QUERY_DELETE\n"
+"querybox.text"
+msgid "Delete AutoText?"
+msgstr "स्वचलत इबारत हटाई जाऽ?"
+
+#: glossary.src
+msgctxt ""
+"glossary.src\n"
+"STR_QUERY_DELETE_GROUP1\n"
+"string.text"
+msgid "Delete the category "
+msgstr "कोटि हटाओ"
+
+#: glossary.src
+msgctxt ""
+"glossary.src\n"
+"STR_QUERY_DELETE_GROUP2\n"
+"string.text"
+msgid "?"
+msgstr "?"
+
+#: glossary.src
+msgctxt ""
+"glossary.src\n"
+"STR_GLOSSARY\n"
+"string.text"
+msgid "AutoText :"
+msgstr "स्वचलत इबारत:"
+
+#: glossary.src
+msgctxt ""
+"glossary.src\n"
+"STR_SAVE_GLOSSARY\n"
+"string.text"
+msgid "Save AutoText"
+msgstr "स्वचलत इबारत बचाइयै रक्खो"
+
+#: glossary.src
+msgctxt ""
+"glossary.src\n"
+"MSG_NO_GLOSSARIES\n"
+"infobox.text"
+msgid "There is no AutoText in this file."
+msgstr "इस फाइल च कोई स्वचलत इबारत नेईं ऐ."
+
+#: glossary.src
+msgctxt ""
+"glossary.src\n"
+"STR_MY_AUTOTEXT\n"
+"string.text"
+msgid "My AutoText"
+msgstr "मेरी स्वतः इबारत"
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"1\n"
+"itemlist.text"
+msgid "1, 2, 3, ..."
+msgstr "1, 2, 3, ..."
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"2\n"
+"itemlist.text"
+msgid "A, B, C, ..."
+msgstr "a, b, c, ..."
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"3\n"
+"itemlist.text"
+msgid "a, b, c, ..."
+msgstr "a, b, c, ..."
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"4\n"
+"itemlist.text"
+msgid "I, II, III, ..."
+msgstr "i, ii, iii, ... (~y)"
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"5\n"
+"itemlist.text"
+msgid "i, ii, iii, ..."
+msgstr "i, ii, iii, ... (~y)"
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"6\n"
+"itemlist.text"
+msgid "A, .., AA, .., AAA, ..."
+msgstr "a, .., aa, .., aaa, ..."
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"7\n"
+"itemlist.text"
+msgid "a, .., aa, .., aaa, ..."
+msgstr "a, .., aa, .., aaa, ..."
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"8\n"
+"itemlist.text"
+msgid "Bullet"
+msgstr "बुल्लेट"
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"9\n"
+"itemlist.text"
+msgid "Graphics"
+msgstr "ग्राफिक"
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"10\n"
+"itemlist.text"
+msgid "None"
+msgstr "कोई नेईं"
+
+#: numberingtypelistbox.src
+#, fuzzy
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"11\n"
+"itemlist.text"
+msgid "Native Numbering"
+msgstr "मूल-भूत संख्याकरण"
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"12\n"
+"itemlist.text"
+msgid "А, Б, .., Аа, Аб, ... (Bulgarian)"
+msgstr "а, б, .., аа, аб, ... (बुल्गेरियन)"
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"13\n"
+"itemlist.text"
+msgid "а, б, .., аа, аб, ... (Bulgarian)"
+msgstr "а, б, .., аа, аб, ... (बुल्गेरियन)"
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"14\n"
+"itemlist.text"
+msgid "А, Б, .., Аа, Бб, ... (Bulgarian)"
+msgstr "а, б, .., аа, бб, ... (बुल्गेरियन)"
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"15\n"
+"itemlist.text"
+msgid "а, б, .., аа, бб, ... (Bulgarian)"
+msgstr "а, б, .., аа, бб, ... (बुल्गेरियन)"
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"16\n"
+"itemlist.text"
+msgid "А, Б, .., Аа, Аб, ... (Russian)"
+msgstr "а, б, .., аа, аб, ... (रूसी)"
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"17\n"
+"itemlist.text"
+msgid "а, б, .., аа, аб, ... (Russian)"
+msgstr "а, б, .., аа, аб, ... (रूसी)"
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"18\n"
+"itemlist.text"
+msgid "А, Б, .., Аа, Бб, ... (Russian)"
+msgstr "а, б, .., аа, бб, ... (रूसी)"
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"19\n"
+"itemlist.text"
+msgid "а, б, .., аа, бб, ... (Russian)"
+msgstr "а, б, .., аа, бб, ... (रूसी)"
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"20\n"
+"itemlist.text"
+msgid "А, Б, .., Аа, Аб, ... (Serbian)"
+msgstr "а, б, .., аа, аб, ... (सर्बेआई)"
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"21\n"
+"itemlist.text"
+msgid "а, б, .., аа, аб, ... (Serbian)"
+msgstr "а, б, .., аа, аб, ... (सर्बेआई)"
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"22\n"
+"itemlist.text"
+msgid "А, Б, .., Аа, Бб, ... (Serbian)"
+msgstr "а, б, .., аа, бб, ... (सर्बेआई)"
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"23\n"
+"itemlist.text"
+msgid "а, б, .., аа, бб, ... (Serbian)"
+msgstr "а, б, .., аа, бб, ... (सर्बेआई)"
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"24\n"
+"itemlist.text"
+msgid "Α, Β, Γ, ... (Greek Upper Letter)"
+msgstr "Α, Β, Γ, ... (ग्रीक बड्डे अक्खर)"
+
+#: numberingtypelistbox.src
+msgctxt ""
+"numberingtypelistbox.src\n"
+"STRRES_NUMTYPES.1\n"
+"25\n"
+"itemlist.text"
+msgid "α, β, γ, ... (Greek Lower Letter)"
+msgstr "α, β, γ, ... (ग्रीक बड्डे अक्खर)"
+
+#: redlndlg.src
+msgctxt ""
+"redlndlg.src\n"
+"MN_REDLINE_POPUP\n"
+"MN_EDIT_COMMENT\n"
+"menuitem.text"
+msgid "Edit Comment..."
+msgstr "टिप्पणी दा संपादन करो"
+
+#: redlndlg.src
+msgctxt ""
+"redlndlg.src\n"
+"MN_REDLINE_POPUP.MN_SUB_SORT\n"
+"MN_SORT_ACTION\n"
+"menuitem.text"
+msgid "Action"
+msgstr "अमल"
+
+#: redlndlg.src
+msgctxt ""
+"redlndlg.src\n"
+"MN_REDLINE_POPUP.MN_SUB_SORT\n"
+"MN_SORT_AUTHOR\n"
+"menuitem.text"
+msgid "Author"
+msgstr "लेखक"
+
+#: redlndlg.src
+msgctxt ""
+"redlndlg.src\n"
+"MN_REDLINE_POPUP.MN_SUB_SORT\n"
+"MN_SORT_DATE\n"
+"menuitem.text"
+msgid "Date"
+msgstr "तरीक"
+
+#: redlndlg.src
+msgctxt ""
+"redlndlg.src\n"
+"MN_REDLINE_POPUP.MN_SUB_SORT\n"
+"MN_SORT_COMMENT\n"
+"menuitem.text"
+msgid "Comment"
+msgstr "नोट"
+
+#: redlndlg.src
+msgctxt ""
+"redlndlg.src\n"
+"MN_REDLINE_POPUP.MN_SUB_SORT\n"
+"MN_SORT_POSITION\n"
+"menuitem.text"
+msgid "Document position"
+msgstr "दस्तावेज स्थिति"
+
+#: redlndlg.src
+msgctxt ""
+"redlndlg.src\n"
+"MN_REDLINE_POPUP\n"
+"MN_SUB_SORT\n"
+"menuitem.text"
+msgid "Sort By"
+msgstr "मताबक छांटो"
+
+#: srtdlg.src
+msgctxt ""
+"srtdlg.src\n"
+"MSG_SRTERR\n"
+"infobox.text"
+msgid "Cannot sort selection"
+msgstr "चोन नेईं छंटोई सकदी"
+
+#: swruler.src
+msgctxt ""
+"swruler.src\n"
+"STR_COMMENTS_LABEL\n"
+"string.text"
+msgid "Comments"
+msgstr "Comments"
+
+#: swruler.src
+msgctxt ""
+"swruler.src\n"
+"STR_SHOW_COMMENTS\n"
+"string.text"
+msgid "Show comments"
+msgstr "Show comments"
+
+#: swruler.src
+msgctxt ""
+"swruler.src\n"
+"STR_HIDE_COMMENTS\n"
+"string.text"
+msgid "Hide comments"
+msgstr "Hide comments"

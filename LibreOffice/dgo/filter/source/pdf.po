@@ -1,0 +1,1138 @@
+#. extracted from filter/source/pdf
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:06+0200\n"
+"PO-Revision-Date: 2011-04-12 00:12+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1370254933.0\n"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"STR_PDF_EXPORT\n"
+"string.text"
+msgid "E~xport"
+msgstr "बरामद करो (~x)"
+
+#: impdialog.src
+#, fuzzy
+msgctxt ""
+"impdialog.src\n"
+"STR_PDF_EXPORT_UDPWD\n"
+"string.text"
+msgid "Set open password"
+msgstr "खु’ल्ला पासवर्ड सैट्ट करो"
+
+#: impdialog.src
+#, fuzzy
+msgctxt ""
+"impdialog.src\n"
+"STR_PDF_EXPORT_ODPWD\n"
+"string.text"
+msgid "Set permission password"
+msgstr "इजाज़त पासवर्ड  सैट्ट करो"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_GENER\n"
+"FL_PAGES\n"
+"fixedline.text"
+msgid "Range"
+msgstr "फलाऽ"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_GENER\n"
+"RB_ALL\n"
+"radiobutton.text"
+msgid "~All"
+msgstr "सब (~A)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_GENER\n"
+"RB_RANGE\n"
+"radiobutton.text"
+msgid "~Pages"
+msgstr "सफे (~P)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_GENER\n"
+"RB_SELECTION\n"
+"radiobutton.text"
+msgid "~Selection"
+msgstr "चोन (~S)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_GENER\n"
+"FL_IMAGES\n"
+"fixedline.text"
+msgid "Images"
+msgstr "बिंब"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_GENER\n"
+"RB_LOSSLESSCOMPRESSION\n"
+"radiobutton.text"
+msgid "~Lossless compression"
+msgstr "नुक्सान रैह्‌त गठन (~L)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_GENER\n"
+"RB_JPEGCOMPRESSION\n"
+"radiobutton.text"
+msgid "~JPEG compression"
+msgstr "JPEG गठन (~J)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_GENER\n"
+"FT_QUALITY\n"
+"fixedtext.text"
+msgid "~Quality"
+msgstr "गुण (~Q)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_GENER\n"
+"CB_REDUCEIMAGERESOLUTION\n"
+"checkbox.text"
+msgid "~Reduce image resolution"
+msgstr "बिंब रैज़ोल्यूशन घटाओ (~R)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_GENER\n"
+"tabpage.text"
+msgid "General"
+msgstr "सधारण"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"FL_WATERMARK\n"
+"fixedline.text"
+msgid "Watermark"
+msgstr "जल चिॕन्न"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"CB_WATERMARK\n"
+"checkbox.text"
+msgid "Sign with Watermark"
+msgstr ""
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"FT_WATERMARK\n"
+"fixedtext.text"
+msgid "Watermark Text"
+msgstr ""
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"FL_GENERAL\n"
+"fixedline.text"
+msgid "General"
+msgstr "सधारण"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"CB_ADDSTREAM\n"
+"checkbox.text"
+msgid "Em~bed OpenDocument file"
+msgstr "hybrid फाइल बनाओ (~b)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"FT_ADDSTREAMDESCRIPTION\n"
+"fixedtext.text"
+msgid "Makes this PDF easily editable in %PRODUCTNAME"
+msgstr "इस PDF गी %PRODUCTNAME च असानी कन्नै संपादनजोग बनांदा ऐ"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"CB_PDFA_1B_SELECT\n"
+"checkbox.text"
+msgid "P~DF/A-1a"
+msgstr "PDF/A-1 (~D)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"CB_TAGGEDPDF\n"
+"checkbox.text"
+msgid "~Tagged PDF"
+msgstr "टैग कीते दा PDF (~T)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"CB_EXPORTFORMFIELDS\n"
+"checkbox.text"
+msgid "~Create PDF form"
+msgstr "PDF फ़ार्म बनाओ (~C)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"FT_FORMSFORMAT\n"
+"fixedtext.text"
+msgid "Submit ~format"
+msgstr "रूप-रचना पेश करो\t (~f)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"CB_ALLOWDUPLICATEFIELDNAMES\n"
+"checkbox.text"
+msgid "Allow duplicate field ~names"
+msgstr "नकली खेतर नांऽ दी इजाज़त देओ (~n)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"CB_EXPORTBOOKMARKS\n"
+"checkbox.text"
+msgid "Export ~bookmarks"
+msgstr "सफा-चि'न्न बरामद (~b)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"CB_EXPORTNOTES\n"
+"checkbox.text"
+msgid "~Export comments"
+msgstr "नोट बरामद करो (~E)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"CB_EXPORTNOTESPAGES\n"
+"checkbox.text"
+msgid "Export ~notes pages"
+msgstr "नोट सफे बरामद करो (~n)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"CB_EXPORTHIDDENSLIDES\n"
+"checkbox.text"
+msgid "Export ~hidden pages"
+msgstr ""
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"CB_EXPORTEMPTYPAGES\n"
+"checkbox.text"
+msgid "Exp~ort automatically inserted blank pages"
+msgstr "अपने आप समावेशत बरामद करो कोरे सफे (~o)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"CB_EMBEDSTANDARDFONTS\n"
+"checkbox.text"
+msgid "E~mbed standard fonts"
+msgstr "मानक फांटें गी जड़ो (~m)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"CB_VIEWPDF\n"
+"checkbox.text"
+msgid "~View PDF after Export"
+msgstr "~View PDF after Export"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_WARNPDFAPASSWORD\n"
+"warningbox.text"
+msgid "PDF/A does not allow encryption. The exported PDF file will not be password protected."
+msgstr ""
+"PDF/A एन्क्रिप्शन दी इजाज़त नेईं दिंदा. बरामद PDF फाइल पासवर्ड संरक्षत नेईं "
+"होग."
+
+#: impdialog.src
+#, fuzzy
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_WARNPDFAPASSWORD\n"
+"warningbox.title"
+msgid "PDF/A Export"
+msgstr "PDF/A बरामद"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_OPNFTR\n"
+"FL_INITVIEW\n"
+"fixedline.text"
+msgid "Panes"
+msgstr "फलक"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_OPNFTR\n"
+"RB_OPNMODE_PAGEONLY\n"
+"radiobutton.text"
+msgid "~Page only"
+msgstr "सफा सिर्फ (~P)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_OPNFTR\n"
+"RB_OPNMODE_OUTLINE\n"
+"radiobutton.text"
+msgid "~Bookmarks and page"
+msgstr "सफा चि’न्न ते सफा (~B)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_OPNFTR\n"
+"RB_OPNMODE_THUMBS\n"
+"radiobutton.text"
+msgid "~Thumbnails and page"
+msgstr "थंबनेल ते सफा (~T)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_OPNFTR\n"
+"FT_MAGNF_INITIAL_PAGE\n"
+"fixedtext.text"
+msgid "Open on page"
+msgstr "सफा च खोह्‌ल्लो"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_OPNFTR\n"
+"FL_MAGNIFICATION\n"
+"fixedline.text"
+msgid "Magnification"
+msgstr "आवर्धन"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_OPNFTR\n"
+"RB_MAGNF_DEFAULT\n"
+"radiobutton.text"
+msgid "~Default"
+msgstr "डिफाल्ट (~D)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_OPNFTR\n"
+"RB_MAGNF_WIND\n"
+"radiobutton.text"
+msgid "~Fit in window"
+msgstr "दोआरी च बनकाओ (~F)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_OPNFTR\n"
+"RB_MAGNF_WIDTH\n"
+"radiobutton.text"
+msgid "Fit ~width"
+msgstr "चौड़ाई  च फिट (~w)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_OPNFTR\n"
+"RB_MAGNF_VISIBLE\n"
+"radiobutton.text"
+msgid "Fit ~visible"
+msgstr "काबल द्रिश्टीगोचर (~v)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_OPNFTR\n"
+"RB_MAGNF_ZOOM\n"
+"radiobutton.text"
+msgid "~Zoom factor"
+msgstr "ज़ूम गुणक (~Z)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_OPNFTR\n"
+"FL_PAGE_LAYOUT\n"
+"fixedline.text"
+msgid "Page layout"
+msgstr "सफा खाका"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_OPNFTR\n"
+"RB_PGLY_DEFAULT\n"
+"radiobutton.text"
+msgid "D~efault"
+msgstr "बिलानिर्देश (~e)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_OPNFTR\n"
+"RB_PGLY_SINGPG\n"
+"radiobutton.text"
+msgid "~Single page"
+msgstr "इक्क सफा (~S)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_OPNFTR\n"
+"RB_PGLY_CONT\n"
+"radiobutton.text"
+msgid "~Continuous"
+msgstr "लगातार (~C)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_OPNFTR\n"
+"RB_PGLY_CONTFAC\n"
+"radiobutton.text"
+msgid "C~ontinuous facing"
+msgstr "लगातार (~o)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_OPNFTR\n"
+"CB_PGLY_FIRSTLEFT\n"
+"checkbox.text"
+msgid "First page is ~left"
+msgstr "पैह्‌ला सफा ऐ खब्बै (~l)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_OPNFTR\n"
+"tabpage.text"
+msgid "Initial View"
+msgstr "शुरुआती द्रिश्श"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_VPREFER\n"
+"FL_WINOPT\n"
+"fixedline.text"
+msgid "Window options"
+msgstr "दोआरी विकल्प"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_VPREFER\n"
+"CB_WNDOPT_RESINIT\n"
+"checkbox.text"
+msgid "~Resize window to initial page"
+msgstr "शुरुआती सफे मताबक दोआरी दा नाप परतियै बनाओ (~R)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_VPREFER\n"
+"CB_WNDOPT_CNTRWIN\n"
+"checkbox.text"
+msgid "~Center window on screen"
+msgstr "दोआरी स्क्रीन पर केंदरत करो (~C)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_VPREFER\n"
+"CB_WNDOPT_OPNFULL\n"
+"checkbox.text"
+msgid "~Open in full screen mode"
+msgstr "पूरी स्क्रीन अवस्था च खोह्‌ल्लो (~O)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_VPREFER\n"
+"CB_DISPDOCTITLE\n"
+"checkbox.text"
+msgid "~Display document title"
+msgstr "दस्तावेज शीर्शक दा प्रदर्शन करो (~D)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_VPREFER\n"
+"FL_USRIFOPT\n"
+"fixedline.text"
+msgid "User interface options"
+msgstr "इंटरफेस विकल्प बरतो"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_VPREFER\n"
+"CB_UOP_HIDEVMENUBAR\n"
+"checkbox.text"
+msgid "Hide ~menubar"
+msgstr "छपैलो मेन्यु-पट्टी (~m)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_VPREFER\n"
+"CB_UOP_HIDEVTOOLBAR\n"
+"checkbox.text"
+msgid "Hide ~toolbar"
+msgstr "छपैलो उपकरण-पट्टी (~t)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_VPREFER\n"
+"CB_UOP_HIDEVWINCTRL\n"
+"checkbox.text"
+msgid "Hide ~window controls"
+msgstr "छपैलो दोआरी नियंत्रण (~w)"
+
+#: impdialog.src
+#, fuzzy
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_VPREFER\n"
+"FL_TRANSITIONS\n"
+"fixedline.text"
+msgid "Transitions"
+msgstr "पारगमन"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_VPREFER\n"
+"CB_TRANSITIONEFFECTS\n"
+"checkbox.text"
+msgid "~Use transition effects"
+msgstr "पारगमन प्रभाव बरतो (~U)"
+
+#: impdialog.src
+#, fuzzy
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_VPREFER\n"
+"FL_BOOKMARKS\n"
+"fixedline.text"
+msgid "Bookmarks"
+msgstr "सफा-चि'न्न"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_VPREFER\n"
+"RB_ALLBOOKMARKLEVELS\n"
+"radiobutton.text"
+msgid "All bookmark levels"
+msgstr "सब सफा-चि'न्न स्तर"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_VPREFER\n"
+"RB_VISIBLEBOOKMARKLEVELS\n"
+"radiobutton.text"
+msgid "Visible bookmark levels"
+msgstr "द्रिश्टीगोचर सफा-चि'न्न स्तर"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_VPREFER\n"
+"tabpage.text"
+msgid "User Interface"
+msgstr "इंटरफेस बरतो"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"FL_PWD_GROUP\n"
+"fixedline.text"
+msgid "File encryption and permission"
+msgstr "फाइल एनक्रिप्शन ते अनुमति"
+
+#: impdialog.src
+#, fuzzy
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"BTN_SET_PWD\n"
+"pushbutton.text"
+msgid "Set ~passwords..."
+msgstr "पासवर्डें गी सैट्ट करो... (~p)"
+
+#: impdialog.src
+#, fuzzy
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"STR_SET_PWD\n"
+"string.text"
+msgid "Set passwords"
+msgstr "पासवर्डें गी सैट्ट करो"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"STR_USER_PWD_SET\n"
+"string.text"
+msgid "Open password set"
+msgstr "खुʼल्ला पासवर्ड सैट्ट"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"STR_USER_PWD_ENC\n"
+"string.text"
+msgid "PDF document will be encrypted"
+msgstr "PDF दस्तावेज गी एनक्रिप्ट कीता जाह्‌ग."
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"STR_USER_PWD_UNSET\n"
+"string.text"
+msgid "No open password set"
+msgstr "कोई खुʼल्ला पासवर्ड सैट्ट नेईं"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"STR_USER_PWD_UNENC\n"
+"string.text"
+msgid "PDF document will not be encrypted"
+msgstr "PDF दस्तावेज गी एनक्रिप्ट नेईं कीता जाह्‌ग."
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"STR_USER_PWD_PDFA\n"
+"string.text"
+msgid "PDF document will not be encrypted due to PDF/A export."
+msgstr "PDF/A बरामद दे कारण PDF दस्तावेज गी एनक्रिप्ट नेईं कीता जाह्‌ग."
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"STR_OWNER_PWD_SET\n"
+"string.text"
+msgid "Permission password set"
+msgstr "अनुमति पासवर्ड सैट्ट"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"STR_OWNER_PWD_REST\n"
+"string.text"
+msgid "PDF document will be restricted"
+msgstr "PDF दस्तावेज गी सीमत होङन."
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"STR_OWNER_PWD_UNSET\n"
+"string.text"
+msgid "No permission password set"
+msgstr "कोई अनुमति पासवर्ड सैट्ट नेईं"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"STR_OWNER_PWD_UNREST\n"
+"string.text"
+msgid "PDF document will be unrestricted"
+msgstr "PDF दस्तावेज गी असीमत होङन."
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"STR_OWNER_PWD_PDFA\n"
+"string.text"
+msgid "PDF document will not be restricted due to PDF/A export."
+msgstr "PDF/A बरामद दे कारण PDF दस्तावेज गी सीमत नेईं कीता जाह्‌ग."
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"FL_PRINT_PERMISSIONS\n"
+"fixedline.text"
+msgid "Printing"
+msgstr "छपाई"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"RB_PRINT_NONE\n"
+"radiobutton.text"
+msgid "~Not permitted"
+msgstr "इजाज़त नेई ऐ (~N)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"RB_PRINT_LOWRES\n"
+"radiobutton.text"
+msgid "~Low resolution (150 dpi)"
+msgstr "घट्ट रैज़ोल्यूशन (150 dpi) (~L)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"RB_PRINT_HIGHRES\n"
+"radiobutton.text"
+msgid "~High resolution"
+msgstr "उच्चा रैज़ोल्यूशन (~H)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"FL_CHANGES_ALLOWED\n"
+"fixedline.text"
+msgid "Changes"
+msgstr "तब्दीलियां"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"RB_CHANGES_NONE\n"
+"radiobutton.text"
+msgid "No~t permitted"
+msgstr "इजाज़त नेई ऐ (~t)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"RB_CHANGES_INSDEL\n"
+"radiobutton.text"
+msgid "~Inserting, deleting, and rotating pages"
+msgstr "सफें दा समावेश, म्हेसना, ते फरकाना होआ करदा ऐ (~I)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"RB_CHANGES_FILLFORM\n"
+"radiobutton.text"
+msgid "~Filling in form fields"
+msgstr "फार्म खेतरें गी भरेआ जा करदा ऐ (~F)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"RB_CHANGES_COMMENT\n"
+"radiobutton.text"
+msgid "~Commenting, filling in form fields"
+msgstr "टिप्पणी कीती जा करदी ऐ,फार्म खेतरें गी भरेआ जा करदा ऐ (~C)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"RB_CHANGES_ANY_NOCOPY\n"
+"radiobutton.text"
+msgid "~Any except extracting pages"
+msgstr "कड्ढे जा करदे सफें दे इलावा कोई (~A)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"CB_ENDAB_COPY\n"
+"checkbox.text"
+msgid "Ena~ble copying of content"
+msgstr "विशे-समग्री दे नकलकरण गी समर्थ करो (~b)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"CB_ENAB_ACCESS\n"
+"checkbox.text"
+msgid "Enable text access for acce~ssibility tools"
+msgstr "पुज्जता उपकरणें लेई इबारत पुज्ज गी समर्थ करो (~s)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SECURITY\n"
+"tabpage.text"
+msgid "Security"
+msgstr "सुरक्षा"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SIGNING\n"
+"FT_SIGN_CERT_TEXT\n"
+"fixedtext.text"
+msgid "Use this certificate to digitally sign PDF documents:"
+msgstr ""
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SIGNING\n"
+"BTN_SIGN_CERT_SELECT\n"
+"pushbutton.text"
+msgid "~Select..."
+msgstr "चुनो... (~S)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SIGNING\n"
+"BTN_SIGN_CERT_CLEAR\n"
+"pushbutton.text"
+msgid "Clear"
+msgstr ""
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SIGNING\n"
+"FT_SIGN_PASSWORD\n"
+"fixedtext.text"
+msgid "Certificate Password"
+msgstr ""
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SIGNING\n"
+"FT_SIGN_LOCATION\n"
+"fixedtext.text"
+msgid "Location"
+msgstr "स्थान"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SIGNING\n"
+"FT_SIGN_CONTACT\n"
+"fixedtext.text"
+msgid "Contact Information"
+msgstr ""
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SIGNING\n"
+"FT_SIGN_REASON\n"
+"fixedtext.text"
+msgid "Reason"
+msgstr ""
+
+#: impdialog.src
+#, fuzzy
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_SIGNING\n"
+"tabpage.text"
+msgid "Digital Signatures"
+msgstr "दस्खत हिंसें च"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_LINKS\n"
+"CB_EXP_BMRK_TO_DEST\n"
+"checkbox.text"
+msgid "Export bookmarks as named destinations"
+msgstr "बरामद नांऽ मंजल तौरा पर  सफा-चिॕन्न (~e)"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_LINKS\n"
+"CB_CNV_OOO_DOCTOPDF\n"
+"checkbox.text"
+msgid "Convert document references to PDF targets"
+msgstr "दस्तावेज हवालें PDF लक्ष्य च तब्दील करो"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_LINKS\n"
+"CB_ENAB_RELLINKFSYS\n"
+"checkbox.text"
+msgid "Export URLs relative to file system"
+msgstr "बरामद URLs सरबंधी फाइल सिस्टम"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_LINKS\n"
+"FL_DEFAULT_LINK_ACTION\n"
+"fixedline.text"
+msgid "Cross-document links"
+msgstr "क्रास-दस्तावेज कड़ियें"
+
+#: impdialog.src
+#, fuzzy
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_LINKS\n"
+"CB_VIEW_PDF_DEFAULT\n"
+"radiobutton.text"
+msgid "Default mode"
+msgstr "बिला निर्देश  ढंग"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_LINKS\n"
+"CB_VIEW_PDF_APPLICATION\n"
+"radiobutton.text"
+msgid "Open with PDF reader application"
+msgstr "PDF  reader  बरतून सनें खोह्‌ल्लो"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_LINKS\n"
+"CB_VIEW_PDF_BROWSER\n"
+"radiobutton.text"
+msgid "Open with Internet browser"
+msgstr "इरनैट तपाशी सनें खोह्‌ल्लो"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_TAB_LINKS\n"
+"tabpage.text"
+msgid "---"
+msgstr "---"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_EXPORT_DLG.1\n"
+"RID_PDF_TAB_GENER\n"
+"pageitem.text"
+msgid "General"
+msgstr "सधारण"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_EXPORT_DLG.1\n"
+"RID_PDF_TAB_OPNFTR\n"
+"pageitem.text"
+msgid "Initial View"
+msgstr "शुरुआती द्रिश्श"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_EXPORT_DLG.1\n"
+"RID_PDF_TAB_VPREFER\n"
+"pageitem.text"
+msgid "User Interface"
+msgstr "इंटरफेस बरतो"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_EXPORT_DLG.1\n"
+"RID_PDF_TAB_LINKS\n"
+"pageitem.text"
+msgid "Links"
+msgstr "कड़ियें"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_EXPORT_DLG.1\n"
+"RID_PDF_TAB_SECURITY\n"
+"pageitem.text"
+msgid "Security"
+msgstr "सुरक्षा"
+
+#: impdialog.src
+#, fuzzy
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_EXPORT_DLG.1\n"
+"RID_PDF_TAB_SIGNING\n"
+"pageitem.text"
+msgid "Digital Signatures"
+msgstr "दस्खत हिंसें च"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_EXPORT_DLG\n"
+"tabdialog.text"
+msgid "PDF Options"
+msgstr "PDF विकल्प"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_ERROR_DLG\n"
+"FT_PROCESS\n"
+"fixedtext.text"
+msgid "During PDF export the following problems occurred:"
+msgstr "PDF बरामद दौरान इॕनें गल्ती दरपेश आई:"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_ERROR_DLG\n"
+"STR_WARN_TRANSP_PDFA_SHORT\n"
+"string.text"
+msgid "PDF/A transparency"
+msgstr "PDF/A पारदर्शकता"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_ERROR_DLG\n"
+"STR_WARN_TRANSP_PDFA\n"
+"string.text"
+msgid "PDF/A forbids transparency. A transparent object was painted opaque instead."
+msgstr "PDF/A forbids पारदर्शकता. tपारदर्शकता चीज was painted opaque instead."
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_ERROR_DLG\n"
+"STR_WARN_TRANSP_VERSION_SHORT\n"
+"string.text"
+msgid "PDF version conflict"
+msgstr "PDF सरूप तनाजा"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_ERROR_DLG\n"
+"STR_WARN_TRANSP_VERSION\n"
+"string.text"
+msgid "Transparency is not supported in PDF versions earlier than PDF 1.4. A transparent object was painted opaque instead"
+msgstr "PDF च संस्करण पारदर्शकता दा समर्थन नेईं होआ बद्ध PDF 1.4."
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_ERROR_DLG\n"
+"STR_WARN_FORMACTION_PDFA_SHORT\n"
+"string.text"
+msgid "PDF/A form action"
+msgstr "PDF/A फ़ार्म अमल"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_ERROR_DLG\n"
+"STR_WARN_FORMACTION_PDFA\n"
+"string.text"
+msgid "A form control contained an action not supported by the PDF/A standard. The action was skipped"
+msgstr ""
+"इक अमल आह्‌ले फार्म नियंत्रण PDF/A मानदंड द्वारा समर्थनशुदा नेईं ऐ.अमल गी "
+"छोड़ी दिता गेई हा"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_ERROR_DLG\n"
+"STR_WARN_TRANSP_CONVERTED\n"
+"string.text"
+msgid "Some objects were converted to an image in order to remove transparencies, because the target PDF format does not support transparencies. Possibly better results can be achieved if you remove the transparent objects before exporting."
+msgstr ""
+"ट्रांस्पेरैंसीज़ गी हटाने आस्तै किश चीजें गी इक बिंब च रूपातरत करी दित्ता "
+"गेआ हा की जे लक्ष PDF फार्मैट ट्रांस्पेरैंसीज़ दा समर्थन नेईं करदा.मुमकन "
+"बेहतर नतीजे हासल कीते जाई सकदे न जेकर तुस बरामद शा पैह्‌लें पारदर्शी चीजें "
+"गी हटाई देगे."
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_ERROR_DLG\n"
+"STR_WARN_TRANSP_CONVERTED_SHORT\n"
+"string.text"
+msgid "Transparencies removed"
+msgstr "ट्रांस्पेरैंसीज़"
+
+#: impdialog.src
+msgctxt ""
+"impdialog.src\n"
+"RID_PDF_ERROR_DLG\n"
+"modaldialog.text"
+msgid "Problems during PDF export"
+msgstr "PDF  बरामद कठिनाई"
+
+#: pdf.src
+msgctxt ""
+"pdf.src\n"
+"PDF_PROGRESS_BAR\n"
+"string.text"
+msgid "Export as PDF"
+msgstr "PDF दे तौरा पर बरामद करो"

@@ -1,0 +1,756 @@
+#. extracted from svx/source/sidebar/paragraph
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:06+0200\n"
+"PO-Revision-Date: 2013-06-03 20:03+0000\n"
+"Last-Translator: Stuart <stuart.swales.croftnuisk@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1370289813.0\n"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_HORIZONTALALIGNMENT\n"
+"BT_SUBSTLEFT\n"
+"toolboxitem.text"
+msgid "Align Left"
+msgstr "Align Left"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_HORIZONTALALIGNMENT\n"
+"BT_SUBSTCENTER\n"
+"toolboxitem.text"
+msgid "Align Center"
+msgstr "Align Centre"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_HORIZONTALALIGNMENT\n"
+"BT_SUBSTRIGHT\n"
+"toolboxitem.text"
+msgid "Align Right"
+msgstr "Align Right"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_HORIZONTALALIGNMENT\n"
+"BT_SUBSTJUSTIFY\n"
+"toolboxitem.text"
+msgid "Align Justified"
+msgstr "Align Justified"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_VERT_ALIGN\n"
+"IID_VERT_TOP\n"
+"toolboxitem.text"
+msgid "Align Top"
+msgstr "Align Top"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_VERT_ALIGN\n"
+"IID_VERT_CENTER\n"
+"toolboxitem.text"
+msgid "Align Center Vertically"
+msgstr "Align Centre Vertically"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_VERT_ALIGN\n"
+"IID_VERT_BOTTOM\n"
+"toolboxitem.text"
+msgid "Align Bottom"
+msgstr "Align Bottom"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_NUM_BULLET\n"
+"IID_BULLET\n"
+"toolboxitem.text"
+msgid "Bullets"
+msgstr "Bullets"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_NUM_BULLET\n"
+"IID_NUMBER\n"
+"toolboxitem.text"
+msgid "Numbering"
+msgstr "Numbering"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_BACK_COLOR\n"
+"TBI_BACK_COLOR\n"
+"toolboxitem.text"
+msgid "Paragraph Background Color"
+msgstr "Paragraph Background Colour"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL\n"
+"FT_SPACING\n"
+"fixedtext.text"
+msgid "~Spacing:"
+msgstr "~Spacing:"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_UL_INC_DEC\n"
+"BT_TBX_UL_INC\n"
+"toolboxitem.text"
+msgid "Increase Spacing"
+msgstr "Increase Spacing"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_UL_INC_DEC\n"
+"BT_TBX_UL_DEC\n"
+"toolboxitem.text"
+msgid "Decrease Spacing"
+msgstr "Decrease Spacing"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL\n"
+"MF_ABOVE_PARASPACING\n"
+"metricfield.quickhelptext"
+msgid "Above Paragraph Spacing"
+msgstr "Above Paragraph Spacing"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL\n"
+"MF_BELOW_PARASPACING\n"
+"metricfield.quickhelptext"
+msgid "Below Paragraph Spacing"
+msgstr "Below Paragraph Spacing"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL\n"
+"FT_INDENT\n"
+"fixedtext.text"
+msgid "~Indent:"
+msgstr "~Indent:"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_INDENT_INC_DEC\n"
+"BT_TBX_INDENT_INC\n"
+"toolboxitem.text"
+msgid "Increase Indent"
+msgstr "Increase Indent"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_INDENT_INC_DEC\n"
+"BT_TBX_INDENT_DEC\n"
+"toolboxitem.text"
+msgid "Decrease Indent"
+msgstr "Decrease Indent"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_INDENT_INC_DEC\n"
+"ID_HANGING_INDENT\n"
+"toolboxitem.text"
+msgid "Switch to Hanging Indent"
+msgstr "Switch to Hanging Indent"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_INDENT_PRO_DEMOTE\n"
+"BT_TBX_INDENT_PROMOTE\n"
+"toolboxitem.text"
+msgid "Increase Indent"
+msgstr "Increase Indent"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_INDENT_PRO_DEMOTE\n"
+"BT_TBX_INDENT_DEMOTE\n"
+"toolboxitem.text"
+msgid "Decrease Indent"
+msgstr "Decrease Indent"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_INDENT_PRO_DEMOTE\n"
+"SD_HANGING_INDENT\n"
+"toolboxitem.text"
+msgid "Switch to Hanging Indent"
+msgstr "Switch to Hanging Indent"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL\n"
+"MF_BEFORE_INDENT\n"
+"metricfield.quickhelptext"
+msgid "Before Text Indent"
+msgstr "Before Text Indent"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL\n"
+"MF_AFTER_INDENT\n"
+"metricfield.quickhelptext"
+msgid "After Text Indent"
+msgstr "After Text Indent"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL\n"
+"MF_FL_INDENT\n"
+"metricfield.quickhelptext"
+msgid "First Line Indent"
+msgstr "First Line Indent"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_LINESP\n"
+"BT_BTX_LINESP\n"
+"toolboxitem.text"
+msgid "Line Spacing"
+msgstr "Line Spacing"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_BACK_COLOR\n"
+"STR_NOFILL\n"
+"string.text"
+msgid "No Color"
+msgstr "No Colour"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_BULLETS\n"
+"CB_BULLET_MORE\n"
+"pushbutton.text"
+msgid "~More Options"
+msgstr "~More Options"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_SIDEBAR_BULLET_DESCRIPTIONS_0\n"
+"string.text"
+msgid "large square bullets"
+msgstr "large square bullets"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_SIDEBAR_BULLET_DESCRIPTIONS_1\n"
+"string.text"
+msgid "graphic bullets"
+msgstr "graphic bullets"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_SIDEBAR_BULLET_DESCRIPTIONS_2\n"
+"string.text"
+msgid "graphic bullets"
+msgstr "graphic bullets"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_SIDEBAR_BULLET_DESCRIPTIONS_3\n"
+"string.text"
+msgid "graphic bullets"
+msgstr "graphic bullets"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_SIDEBAR_BULLET_DESCRIPTIONS_4\n"
+"string.text"
+msgid "graphic bullets"
+msgstr "graphic bullets"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_NUMBERING\n"
+"CB_NUMBERING_MORE\n"
+"pushbutton.text"
+msgid "~More Options"
+msgstr "~More Options"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"FT_CUSTOM\n"
+"fixedtext.text"
+msgid "Custom:"
+msgstr "Custom:"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"FT_LINE_SPACING\n"
+"fixedtext.text"
+msgid "~Line Spacing:"
+msgstr "~Line Spacing:"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"FT_OF\n"
+"fixedtext.text"
+msgid "~Of:"
+msgstr "~Of:"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING.LB_LINE_SPACING\n"
+"1\n"
+"stringlist.text"
+msgid "Single"
+msgstr "Single"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING.LB_LINE_SPACING\n"
+"2\n"
+"stringlist.text"
+msgid "1.5 Lines"
+msgstr "1.5 Lines"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING.LB_LINE_SPACING\n"
+"3\n"
+"stringlist.text"
+msgid "Double"
+msgstr "Double"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING.LB_LINE_SPACING\n"
+"4\n"
+"stringlist.text"
+msgid "Proportional"
+msgstr "Proportional"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING.LB_LINE_SPACING\n"
+"5\n"
+"stringlist.text"
+msgid "At least"
+msgstr "At least"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING.LB_LINE_SPACING\n"
+"6\n"
+"stringlist.text"
+msgid "Leading"
+msgstr "Leading"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING.LB_LINE_SPACING\n"
+"7\n"
+"stringlist.text"
+msgid "Fixed"
+msgstr "Fixed"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_LS_SINGLE\n"
+"string.text"
+msgid "Line spacing: Single"
+msgstr "Line spacing: Single"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_LS_115\n"
+"string.text"
+msgid "Line spacing: 1.15 Lines"
+msgstr "Line spacing: 1.15 Lines"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_LS_15\n"
+"string.text"
+msgid "Line spacing: 1.5 Lines"
+msgstr "Line spacing: 1.5 Lines"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_LS_DOUBLE\n"
+"string.text"
+msgid "Line spacing: Double"
+msgstr "Line spacing: Double"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_LSPACING\n"
+"string.text"
+msgid "Line spacing:"
+msgstr "Line spacing:"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_LS_OF\n"
+"string.text"
+msgid "of:"
+msgstr "of:"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_SPACING1\n"
+"string.text"
+msgid "Spacing: 1"
+msgstr "Spacing: 1"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_SPACING115\n"
+"string.text"
+msgid "Spacing: 1.15"
+msgstr "Spacing: 1.15"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_SPACING15\n"
+"string.text"
+msgid "Spacing: 1.5"
+msgstr "Spacing: 1.5"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_SPACING2\n"
+"string.text"
+msgid "Spacing: 2"
+msgstr "Spacing: 2"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_LCVALUE\n"
+"string.text"
+msgid "Last Custom Value"
+msgstr "Last Custom Value"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_NUMBULLET_NONE\n"
+"string.text"
+msgid "None"
+msgstr "None"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_0\n"
+"string.text"
+msgid "Black Pearl"
+msgstr "Black Pearl"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_1\n"
+"string.text"
+msgid "Blue Arrow 1"
+msgstr "Blue Arrow 1"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_2\n"
+"string.text"
+msgid "Blue Ball"
+msgstr "Blue Ball"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_3\n"
+"string.text"
+msgid "Blue Diamond"
+msgstr "Blue Diamond"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_4\n"
+"string.text"
+msgid "Blue Red"
+msgstr "Blue Red"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_5\n"
+"string.text"
+msgid "Blue Square"
+msgstr "Blue Square"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_6\n"
+"string.text"
+msgid "Blue Star"
+msgstr "Blue Star"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_7\n"
+"string.text"
+msgid "Dark Red Circle"
+msgstr "Dark Red Circle"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_8\n"
+"string.text"
+msgid "Blue Circle"
+msgstr "Blue Circle"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_9\n"
+"string.text"
+msgid "Green Circle"
+msgstr "Green Circle"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_10\n"
+"string.text"
+msgid "Black Square"
+msgstr "Black Square"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_11\n"
+"string.text"
+msgid "Orange Square"
+msgstr "Orange Square"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_12\n"
+"string.text"
+msgid "Purple Square"
+msgstr "Purple Square"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_13\n"
+"string.text"
+msgid "Blue Diamond"
+msgstr "Blue Diamond"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_14\n"
+"string.text"
+msgid "Light Blue Diamond"
+msgstr "Light Blue Diamond"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_15\n"
+"string.text"
+msgid "Red Diamond"
+msgstr "Red Diamond"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_16\n"
+"string.text"
+msgid "Yellow Star"
+msgstr "Yellow Star"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_17\n"
+"string.text"
+msgid "Blue Star"
+msgstr "Blue Star"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_18\n"
+"string.text"
+msgid "Blue Triangle"
+msgstr "Blue Triangle"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_19\n"
+"string.text"
+msgid "Dark Green Triangle"
+msgstr "Dark Green Triangle"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_20\n"
+"string.text"
+msgid "Red Arrow"
+msgstr "Red Arrow"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_21\n"
+"string.text"
+msgid "Blue Arrow 2"
+msgstr "Blue Arrow 2"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_22\n"
+"string.text"
+msgid "Blue Box"
+msgstr "Blue Box"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_23\n"
+"string.text"
+msgid "Red Box"
+msgstr "Red Box"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_24\n"
+"string.text"
+msgid "Light Blue Asterisk"
+msgstr "Light Blue Asterisk"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_25\n"
+"string.text"
+msgid "Red Leaves"
+msgstr "Red Leaves"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_26\n"
+"string.text"
+msgid "Blue Target"
+msgstr "Blue Target"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_27\n"
+"string.text"
+msgid "Blue Arrow 3"
+msgstr "Blue Arrow 3"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_28\n"
+"string.text"
+msgid "Dark Blue Arrow"
+msgstr "Dark Blue Arrow"
+
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_29\n"
+"string.text"
+msgid "Brown Arrow"
+msgstr "Brown Arrow"

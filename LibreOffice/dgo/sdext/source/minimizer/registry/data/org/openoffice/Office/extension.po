@@ -1,0 +1,642 @@
+#. extracted from sdext/source/minimizer/registry/data/org/openoffice/Office/extension
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2011-04-06 09:38+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1370288497.0\n"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_SUN_OPTIMIZATION_WIZARD2\n"
+"value.text"
+msgid "Presentation Minimizer"
+msgstr ""
+
+#: SunPresentationMinimizer.xcu
+#, fuzzy
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_STEPS\n"
+"value.text"
+msgid "Steps"
+msgstr "चरण"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_BACK\n"
+"value.text"
+msgid "< ~Back"
+msgstr "< पिच्छें (~B)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_NEXT\n"
+"value.text"
+msgid "~Next >"
+msgstr "आगे > (~N)"
+
+#: SunPresentationMinimizer.xcu
+#, fuzzy
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_FINISH\n"
+"value.text"
+msgid "~Finish"
+msgstr "मकाओ (~F)"
+
+#: SunPresentationMinimizer.xcu
+#, fuzzy
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_CANCEL\n"
+"value.text"
+msgid "Cancel"
+msgstr "रद्द करो"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_INTRODUCTION\n"
+"value.text"
+msgid "Introduction"
+msgstr "परिचय"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_INTRODUCTION_T\n"
+"value.text"
+msgid "The Presentation Minimizer is used to reduce the file size of the current presentation. Images will be compressed and data, that is no longer needed, will be removed.        At the last step of the wizard you can choose to apply the changes to the current presentation or to create an optimized new version of the presentation."
+msgstr ""
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_CHOSE_SETTINGS\n"
+"value.text"
+msgid "~Choose settings for Presentation Minimizer"
+msgstr ""
+
+#: SunPresentationMinimizer.xcu
+#, fuzzy
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_REMOVE\n"
+"value.text"
+msgid "~Delete"
+msgstr "म्हेसो (~D)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_GRAPHIC_OPTIMIZATION\n"
+"value.text"
+msgid "Choose settings for optimizing pictures and graphics"
+msgstr "तस्वीरें ते ग्राफिकें गी बद्धोबद्ध करने लेई सैट्टिंगां तालो"
+
+#: SunPresentationMinimizer.xcu
+#, fuzzy
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_IMAGE_OPTIMIZATION\n"
+"value.text"
+msgid "Graphics"
+msgstr "ग्राफिक"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_LOSSLESS_COMPRESSION\n"
+"value.text"
+msgid "~Lossless compression"
+msgstr "नुक्सान रैह्‌त गठन (~L)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_JPEG_COMPRESSION\n"
+"value.text"
+msgid "~JPEG compression"
+msgstr "JPEG गठन (~J)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_QUALITY\n"
+"value.text"
+msgid "~Quality in %"
+msgstr "च क्वाल्टी % (~Q)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_REMOVE_CROP_AREA\n"
+"value.text"
+msgid "~Delete cropped graphic areas"
+msgstr "कटा ग्राफि खित्ते म्हेसो (~D)"
+
+#: SunPresentationMinimizer.xcu
+#, fuzzy
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_IMAGE_RESOLUTION\n"
+"value.text"
+msgid "Reduce ~image resolution"
+msgstr "बिंब रैज़ोल्यूशन घटाओ (~i)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_IMAGE_RESOLUTION_0\n"
+"value.text"
+msgid "0;<no change>"
+msgstr "0;<कोई तब्दीली नेईं>"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_IMAGE_RESOLUTION_1\n"
+"value.text"
+msgid "90;90 DPI (screen resolution)"
+msgstr "90;90 DPI (परदा रैज़ोल्यूशन)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_IMAGE_RESOLUTION_2\n"
+"value.text"
+msgid "150;150 DPI (projector resolution)"
+msgstr "150;150 DPI (प्रोजैक्टर रैज़ोल्यूशन)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_IMAGE_RESOLUTION_3\n"
+"value.text"
+msgid "300;300 DPI (print resolution)"
+msgstr "300;300 DPI (छपाई रैज़ोल्यूशन)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_EMBED_LINKED_GRAPHICS\n"
+"value.text"
+msgid "~Break links to external graphics"
+msgstr "बाह्‌री ग्राफिकें दियें कड़ियें गी त्रोड़ो (~B)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_OLE_OBJECTS\n"
+"value.text"
+msgid "OLE Objects"
+msgstr "OLE चीज"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_OLE_OPTIMIZATION\n"
+"value.text"
+msgid "Choose settings for replacing OLE objects"
+msgstr "OLE चीजें गी प्रतिस्थापत करने लेई सैट्टिंगां तालो"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_OLE_REPLACE\n"
+"value.text"
+msgid "Create static replacement graphics for OLE objects"
+msgstr "OLE चीजें लेई स्थाई प्रतिस्थापना सिरजो"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_ALL_OLE_OBJECTS\n"
+"value.text"
+msgid "For ~all OLE objects"
+msgstr "सभनें OLE चीजें लेई (~a)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_ALIEN_OLE_OBJECTS_ONLY\n"
+"value.text"
+msgid "~For OLE objects not based on OpenDocument format"
+msgstr "OLE चीजें लेई खुॕल्ला दस्तावेज रूप-रचना पर अधारत नेईं (~F)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_OLE_OBJECTS_DESC\n"
+"value.text"
+msgid "Object Linking and Embedding (OLE) is a technology that allows embedding and linking to documents and other objects.The current presentation contains OLE objects."
+msgstr ""
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_NO_OLE_OBJECTS_DESC\n"
+"value.text"
+msgid "Object Linking and Embedding (OLE) is a technology that allows embedding and linking to documents and other objects.The current presentation contains no OLE objects."
+msgstr ""
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_SLIDES\n"
+"value.text"
+msgid "Slides"
+msgstr "स्लाइडां"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_CHOOSE_SLIDES\n"
+"value.text"
+msgid "Choose which slides to delete"
+msgstr "जेह्‌ड़ियां स्लाइडां म्हेसनियां न, ओह् तालो"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_MASTER_PAGES\n"
+"value.text"
+msgid "Master Pages"
+msgstr "मास्टर सफे"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_DELETE_MASTER_PAGES\n"
+"value.text"
+msgid "Delete unused ~master pages"
+msgstr "बिन बरते मास्टर सफे म्हेसो (~m)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_DELETE_NOTES_PAGES\n"
+"value.text"
+msgid "~Clear notes"
+msgstr "नोटें गी साफ करो (~C)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_DELETE_HIDDEN_SLIDES\n"
+"value.text"
+msgid "Delete hidden ~slides"
+msgstr "छिपाया स्लाइड मिटाएँ (~s)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_CUSTOM_SHOW\n"
+"value.text"
+msgid "Delete slides that are not used for the ~custom slide show"
+msgstr ""
+"उॕनें स्लाइडें गी म्हेसो जिॕनें गी  लोड़ा मताबक स्लाइड शो लेई बरतेआ नेईं "
+"जंदा (~c)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_SUMMARY\n"
+"value.text"
+msgid "Summary"
+msgstr "सार"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_SUMMARY_TITLE\n"
+"value.text"
+msgid "Choose where to apply the following changes"
+msgstr "जित्थै एह् तब्दीलियां लागू करनियां न, ओह् तालो"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_PROGRESS\n"
+"value.text"
+msgid "Progress"
+msgstr "प्रगति"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_OBJECTS_OPTIMIZED\n"
+"value.text"
+msgid "Objects optimized"
+msgstr "चीजें गी योग्य कीता गेआ"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_APPLY_TO_CURRENT\n"
+"value.text"
+msgid "~Apply changes to current presentation"
+msgstr "मजूदा प्रस्तुति च तब्दीलियां लागू करो (~A)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_AUTOMATICALLY_OPEN\n"
+"value.text"
+msgid "~Open newly created presentation"
+msgstr "नमीं सिरजी दी प्रस्तुति खोह्‌ल्लो (~O)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_SAVE_SETTINGS\n"
+"value.text"
+msgid "~Save settings as"
+msgstr "सैट्टिंगें गी इस नांऽ कन्नै बचाइयै रक्खो (~S)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_SAVE_AS\n"
+"value.text"
+msgid "~Duplicate presentation before applying changes"
+msgstr "तब्दीलियां लागू करने शा पैह्‌लें प्रस्तुति दी नकल बनाओ (~D)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_DELETE_SLIDES\n"
+"value.text"
+msgid "Delete %SLIDES slides."
+msgstr "%SLIDES स्लाइडें गी म्हेसो ."
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_OPTIMIZE_IMAGES\n"
+"value.text"
+msgid "Optimize %IMAGES graphics to %QUALITY% JPEG quality at %RESOLUTION DPI."
+msgstr ""
+"%IMAGES ग्राफिकें गी  %RESOLUTION DPI पर %QUALITY% JPEG क्वालिटी तगर योग्य "
+"करो."
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_CREATE_REPLACEMENT\n"
+"value.text"
+msgid "Create replacement graphics for %OLE objects."
+msgstr "%OLE चीजें लेई प्रतिस्थापना ग्राफिक सिरजो."
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_CURRENT_FILESIZE\n"
+"value.text"
+msgid "Current file size:"
+msgstr "मजूदा फाइल नाप:"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_ESTIMATED_FILESIZE\n"
+"value.text"
+msgid "Estimated new file size:"
+msgstr "नमीं फाइल दा अंदाजन नाप:"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_MB\n"
+"value.text"
+msgid "%1 MB"
+msgstr "%1 MB"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"MY_SETTINGS\n"
+"value.text"
+msgid "My Settings "
+msgstr "मेरियां सैट्टिंगां"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_DEFAULT_SESSION\n"
+"value.text"
+msgid "default session"
+msgstr "बिलानिर्देश सत्र"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_MODIFY_WARNING\n"
+"value.text"
+msgid "The optimization will modify the current document. Do you want to continue?"
+msgstr ""
+"योग्यकरण मजूदा दस्तावेज गी तरमीमत करी देग. क्या तुस इस प्रक्रिया गी जारी "
+"रक्खना चांह्‌दे ओ?"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_YES\n"
+"value.text"
+msgid "~Yes"
+msgstr "हां (~Y)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_OK\n"
+"value.text"
+msgid "OK"
+msgstr "ठीक"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_INFO_1\n"
+"value.text"
+msgid "The Presentation Minimizer has successfully updated the presentation '%TITLE'. The file size has changed from %OLDFILESIZE MB to %NEWFILESIZE MB."
+msgstr ""
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_INFO_2\n"
+"value.text"
+msgid "The Presentation Minimizer has successfully updated the presentation '%TITLE'. The file size has changed from %OLDFILESIZE MB to approximated %NEWFILESIZE MB."
+msgstr ""
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_INFO_3\n"
+"value.text"
+msgid "The Presentation Minimizer has successfully updated the presentation '%TITLE'. The file size has changed to %NEWFILESIZE MB."
+msgstr ""
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_INFO_4\n"
+"value.text"
+msgid "The Presentation Minimizer has successfully updated the presentation '%TITLE'. The file size has changed to approximated %NEWFILESIZE MB."
+msgstr ""
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_DUPLICATING_PRESENTATION\n"
+"value.text"
+msgid "Duplicating presentation..."
+msgstr "प्रस्तुति दी नकल बनाई जा करदी ऐ..."
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_DELETING_SLIDES\n"
+"value.text"
+msgid "Deleting slides..."
+msgstr "स्लाइडें गी म्हेसेआ जा करदा ऐ..."
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_OPTIMIZING_GRAPHICS\n"
+"value.text"
+msgid "Optimizing graphics..."
+msgstr "ग्राफिकें गी योग्य कीता जा करदा ऐ..."
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_CREATING_OLE_REPLACEMENTS\n"
+"value.text"
+msgid "Creating replacement graphics for OLE objects..."
+msgstr "OLE चीजें लेई प्रतिस्थापना ग्राफिक सिरजे जा करदे न..."
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Strings\n"
+"STR_FILESIZESEPARATOR\n"
+"value.text"
+msgid "."
+msgstr "."
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.LastUsedSettings\n"
+"Name\n"
+"value.text"
+msgid "Projector optimized"
+msgstr "प्रोजैक्टर गी इच्छत रूप दा करी लैता गेआ ऐ"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Settings.Templates.template1\n"
+"Name\n"
+"value.text"
+msgid "Screen optimized (smallest file size)"
+msgstr "परदे गी योग्य कीता गेआ(घट्टोघट्ट फाइल नाप)"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Settings.Templates.template2\n"
+"Name\n"
+"value.text"
+msgid "Projector optimized"
+msgstr "प्रोजैक्टर गी इच्छत रूप दा करी लैता गेआ ऐ"
+
+#: SunPresentationMinimizer.xcu
+msgctxt ""
+"SunPresentationMinimizer.xcu\n"
+".SunPresentationMinimizer.Settings.Templates.template3\n"
+"Name\n"
+"value.text"
+msgid "Print optimized"
+msgstr "छपाई गी योग्य कीता गेआ"

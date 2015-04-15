@@ -1,0 +1,213 @@
+#. extracted from basctl/source/dlged
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2011-04-06 09:35+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_BRWTITLE_PROPERTIES\n"
+"string.text"
+msgid "Properties: "
+msgstr "विशेशतां:"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_BRWTITLE_NO_PROPERTIES\n"
+"string.text"
+msgid "No Control marked"
+msgstr "कोई नियंत्रण चिह्नित नेईं"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_BRWTITLE_MULTISELECT\n"
+"string.text"
+msgid "Multiselection"
+msgstr "बहुचोन"
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_DLG_MANAGE_LANGUAGE\n"
+"FT_LANGUAGE\n"
+"fixedtext.text"
+msgid "Present Languages"
+msgstr "वर्तमान भाशा"
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_DLG_MANAGE_LANGUAGE\n"
+"PB_ADD_LANG\n"
+"pushbutton.text"
+msgid "Add..."
+msgstr "जमा करो..."
+
+#: managelang.src
+#, fuzzy
+msgctxt ""
+"managelang.src\n"
+"RID_DLG_MANAGE_LANGUAGE\n"
+"PB_DEL_LANG\n"
+"pushbutton.text"
+msgid "Delete"
+msgstr "म्हेसो"
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_DLG_MANAGE_LANGUAGE\n"
+"PB_MAKE_DEFAULT\n"
+"pushbutton.text"
+msgid "Default"
+msgstr "बिला निर्देश"
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_DLG_MANAGE_LANGUAGE\n"
+"FT_INFO\n"
+"fixedtext.text"
+msgid "The default language is used if no localization for a user interface locale is present. Furthermore all strings from the default language are copied to resources of newly added languages."
+msgstr ""
+"जेकर बरतूनी इंटरफेस स्थानक लेई कोई स्थानीकरण  मजूद नेईं ऐ तां बिलानिर्देश "
+"भाशा बरती जंदी ऐ. ते कन्नै गै बिलानिर्देश भाशा चा सब्भै अक्खर-लड़ियां नमियें "
+"जमा कीती दियें भाशाएं दे संसाधनें च नकल कीतियां जंदियां न."
+
+#: managelang.src
+#, fuzzy
+msgctxt ""
+"managelang.src\n"
+"RID_DLG_MANAGE_LANGUAGE\n"
+"PB_CLOSE\n"
+"okbutton.text"
+msgid "~Close"
+msgstr "बन्द करो (~C)"
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_DLG_MANAGE_LANGUAGE\n"
+"STR_DEF_LANG\n"
+"string.text"
+msgid "[Default Language]"
+msgstr "[बिला निर्देश भाशां]"
+
+#: managelang.src
+#, fuzzy
+msgctxt ""
+"managelang.src\n"
+"RID_DLG_MANAGE_LANGUAGE\n"
+"STR_DELETE\n"
+"string.text"
+msgid "~Delete"
+msgstr "म्हेसो (~D)"
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_DLG_MANAGE_LANGUAGE\n"
+"STR_CREATE_LANG\n"
+"string.text"
+msgid "<Press 'Add' to create language resources>"
+msgstr "< भाशा संसाधनें गी रचने लेई ' जमा करो ' दबाओ>"
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_DLG_MANAGE_LANGUAGE\n"
+"modaldialog.text"
+msgid "Manage User Interface Languages [$1]"
+msgstr "बरतूनी इंटरफेस भाशाएं दा प्रबंध करो [$1]"
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_QRYBOX_LANGUAGE\n"
+"querybox.text"
+msgid ""
+"You are about to delete the resources for the selected language(s). All user interface strings for this language(s) will be deleted.\n"
+"\n"
+"Do you want to delete the resources of the selected language(s)?"
+msgstr ""
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_QRYBOX_LANGUAGE\n"
+"querybox.title"
+msgid "Delete Language Resources"
+msgstr "भाशा संसाधनें गी म्हेटी देओ."
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_DLG_SETDEF_LANGUAGE\n"
+"FT_DEF_LANGUAGE\n"
+"fixedtext.text"
+msgid "Default language"
+msgstr "बिला निर्देश भाशां"
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_DLG_SETDEF_LANGUAGE\n"
+"FT_DEF_INFO\n"
+"fixedtext.text"
+msgid "Select a language to define the default user interface language. All currently present strings will be assigned to the resources created for the selected language."
+msgstr ""
+"बिलानिर्देश बरतूनी इंटरफेस भाशा गी परिभाशत करने लेई इक भाशा चुनो.इसलै  मजूद "
+"सब्भै लड़ियां चुनंदा भाशा लेई सिरजत संसाधनें लेई निश्चत करी दित्तियां जाङन."
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_DLG_SETDEF_LANGUAGE\n"
+"STR_ADDLANG_TITLE\n"
+"string.text"
+msgid "Add User Interface Languages"
+msgstr "बरतूनी इंटरफेस भाशां जमा करो"
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_DLG_SETDEF_LANGUAGE\n"
+"STR_ADDLANG_LABEL\n"
+"string.text"
+msgid "Available Languages"
+msgstr "उपलब्ध  भाशां"
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_DLG_SETDEF_LANGUAGE\n"
+"STR_ADDLANG_INFO\n"
+"string.text"
+msgid "Select languages to be added. Resources for these languages will be created in the library. Strings of the current default user interface language will be copied to these new resources by default."
+msgstr ""
+"जमा करने लेई भाशां चुनो . इॕनें भाशाएं लेई संसाधनें गी लाइब्रेरी च सिरजेआ "
+"जाग.मजूदा बिलानिर्देश बरतूनी इंटरफेस भाशा गी इॕनें नमें संसाधनें च "
+"बिलानिर्देश नकल कीता जाग."
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_DLG_SETDEF_LANGUAGE\n"
+"modaldialog.text"
+msgid "Set Default User Interface Language"
+msgstr "बिलानिर्देश बरतूनी इंटरफेस भाशा सैट्ट करो"

@@ -1,0 +1,2120 @@
+#. extracted from sw/source/ui/config
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-06-10 10:39+0200\n"
+"PO-Revision-Date: 2012-06-16 13:47+0200\n"
+"Last-Translator: Andras <timar74@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1354032227.0\n"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"TP_MAILCONFIG\n"
+"FL_IDENTITY\n"
+"fixedline.text"
+msgid "User information"
+msgstr "बरतूनी जानकारी"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"TP_MAILCONFIG\n"
+"FT_DISPLAYNAME\n"
+"fixedtext.text"
+msgid "~Your name"
+msgstr "अपना नांऽ (~Y)"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"TP_MAILCONFIG\n"
+"FT_ADDRESS\n"
+"fixedtext.text"
+msgid "~E-Mail address"
+msgstr "ई-मेल सिरनामां (~E)"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"TP_MAILCONFIG\n"
+"CB_REPLYTO\n"
+"checkbox.text"
+msgid "Send replies to ~different e-mail address"
+msgstr "जवाब भेजो बक्खरे ई-मेल सिरनामे पर (~d)"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"TP_MAILCONFIG\n"
+"FT_REPLYTO\n"
+"fixedtext.text"
+msgid "~Reply address"
+msgstr "जवाबी सिरनामां (~R)"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"TP_MAILCONFIG\n"
+"FL_SMTP\n"
+"fixedline.text"
+msgid "Outgoing server (SMTP) Settings"
+msgstr "जाने आह्‌ले सर्वर दियां सैट्टिंगां(SMTP)"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"TP_MAILCONFIG\n"
+"FT_SERVER\n"
+"fixedtext.text"
+msgid "~Server name"
+msgstr "सर्वर नांऽ (~S)"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"TP_MAILCONFIG\n"
+"FT_PORT\n"
+"fixedtext.text"
+msgid "~Port"
+msgstr "पत्तन (~P)"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"TP_MAILCONFIG\n"
+"CB_SECURE\n"
+"checkbox.text"
+msgid "~Use secure connection (SSL)"
+msgstr "सुरक्षत कनैक्शन बरतो(SSL) (~U)"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"TP_MAILCONFIG\n"
+"PB_AUTHENTICATION\n"
+"pushbutton.text"
+msgid "Server Au~thentication"
+msgstr "सर्वर प्रमाणीकरण (~t)"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"TP_MAILCONFIG\n"
+"PB_TEST\n"
+"pushbutton.text"
+msgid "Test S~ettings..."
+msgstr "परख सैट्टिंगां... (~e)"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"TP_MAILCONFIG\n"
+"tabpage.text"
+msgid "Mail Merge E-mail"
+msgstr "मेल विलय ई-मेल"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"DLG_MM_TESTACCOUNTSETTINGS\n"
+"FI_INFO\n"
+"fixedtext.text"
+msgid "%PRODUCTNAME is testing the e-mail account settings..."
+msgstr "%PRODUCTNAME ई-मेल खाता सैट्टिंगां परखा करदा ऐ..."
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"DLG_MM_TESTACCOUNTSETTINGS\n"
+"FI_ERROR\n"
+"fixedtext.text"
+msgid "Errors"
+msgstr "गल्तियां"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"DLG_MM_TESTACCOUNTSETTINGS\n"
+"PB_STOP\n"
+"pushbutton.text"
+msgid "~Stop"
+msgstr "रोको (~S)"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"DLG_MM_TESTACCOUNTSETTINGS\n"
+"modaldialog.text"
+msgid "Test Account Settings"
+msgstr "खाता सैट्टिंगां परखो"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"ST_TASK\n"
+"string.text"
+msgid "Task"
+msgstr "कम्म-काज"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"ST_STATUS\n"
+"string.text"
+msgid "Status"
+msgstr "वस्तु-स्थिति"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"ST_ESTABLISH\n"
+"string.text"
+msgid "Establish network connection"
+msgstr "नैट्टवर्क कनैक्शन स्थापत करो"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"ST_FINDSERVER\n"
+"string.text"
+msgid "Find outgoing mail server"
+msgstr "जाने आह्‌ली  मेल दे सर्वर गी तुप्पो"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"ST_COMPLETED\n"
+"string.text"
+msgid "Successful"
+msgstr "सफल"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"ST_FAILED\n"
+"string.text"
+msgid "Failed"
+msgstr "असफल"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"ST_ERROR_SERVER\n"
+"string.text"
+msgid "%PRODUCTNAME could not connect to the outgoing mail server. Check your system's settings and the settings in %PRODUCTNAME. Check the server name, the port and the secure connections settings"
+msgstr ""
+"%PRODUCTNAME जाने आह्‌ली मेल दा सर्वर कन्नै कनैक्शन नेईं जोड़ी सकेआ. अपने "
+"सिस्टम दियां सैट्टिंगां ते %PRODUCTNAME च सैट्टिंगां जाचो. सर्वर नांऽ, पत्तन "
+"ते सुरक्षत कनैक्शन सैट्टिंगां जाचो."
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"DLG_MM_SERVERAUTHENTICATION\n"
+"CB_AUTHENTICATION\n"
+"checkbox.text"
+msgid "The outgoing mail server (SMTP) requires au~thentication"
+msgstr "जाने आह्‌ली मेल दे सर्वर (SMTP) गी प्रमाणीकरण लोड़दा ऐ. (~t)"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"DLG_MM_SERVERAUTHENTICATION\n"
+"RB_SEP_AUTHENTICATION\n"
+"radiobutton.text"
+msgid "The outgoing mail server (SMTP) requires ~separate authentication"
+msgstr "जाने आह्‌ली मेल दे सर्वर (SMTP) गी बक्खरा प्रमाणीकरण लोड़दा ऐ. (~s)"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"DLG_MM_SERVERAUTHENTICATION\n"
+"FT_OUTGOINGSERVER\n"
+"fixedtext.text"
+msgid "Outgoing mail server:"
+msgstr "जाने आह्‌ली मेल दा सर्वर:"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"DLG_MM_SERVERAUTHENTICATION\n"
+"FT_USERNAME\n"
+"fixedtext.text"
+msgid "~User name"
+msgstr "बरतूनी नांऽ (~U)"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"DLG_MM_SERVERAUTHENTICATION\n"
+"FT_OUTPASSWORD\n"
+"fixedtext.text"
+msgid "~Password"
+msgstr "पासवर्ड (~P)"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"DLG_MM_SERVERAUTHENTICATION\n"
+"RB_SMPTAFTERPOP\n"
+"radiobutton.text"
+msgid "The outgoing mail server uses the same authentication as the ~incoming mail server. Enter the settings of the incoming mail server."
+msgstr ""
+"जाने आह्‌ली मेल दा सर्वर उस्सै  प्रमाणीकरण गी बरतदा ऐ जिसी औने आह्‌ली मेल दा "
+"सर्वर बरतदा ऐ. औने आह्‌ली मेल दे सर्वर दियां सैट्टिंगां प्रविश्ट करो. (~i)"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"DLG_MM_SERVERAUTHENTICATION\n"
+"FT_INCOMINGSERVER\n"
+"fixedtext.text"
+msgid "Incoming mail server:"
+msgstr "औने आह्‌ली मेल दा सर्वर:"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"DLG_MM_SERVERAUTHENTICATION\n"
+"FT_SERVER\n"
+"fixedtext.text"
+msgid "Server ~name"
+msgstr "सर्वर नांऽ (~n)"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"DLG_MM_SERVERAUTHENTICATION\n"
+"FT_PORT\n"
+"fixedtext.text"
+msgid "P~ort"
+msgstr "पोर्ट (~o)"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"DLG_MM_SERVERAUTHENTICATION\n"
+"FT_PROTOCOL\n"
+"fixedtext.text"
+msgid "Type"
+msgstr "किस्म"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"DLG_MM_SERVERAUTHENTICATION\n"
+"RB_POP3\n"
+"radiobutton.text"
+msgid "~POP 3"
+msgstr "~POP 3"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"DLG_MM_SERVERAUTHENTICATION\n"
+"RB_IMAP\n"
+"radiobutton.text"
+msgid "~IMAP"
+msgstr "~IMAP"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"DLG_MM_SERVERAUTHENTICATION\n"
+"FT_INUSERNAME\n"
+"fixedtext.text"
+msgid "Us~er name"
+msgstr "बरतूनी  नांऽ (~e)"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"DLG_MM_SERVERAUTHENTICATION\n"
+"FT_INPASSWORD\n"
+"fixedtext.text"
+msgid "Pass~word"
+msgstr "पासवर्ड (~w)"
+
+#: mailconfigpage.src
+msgctxt ""
+"mailconfigpage.src\n"
+"DLG_MM_SERVERAUTHENTICATION\n"
+"modaldialog.text"
+msgid "Server Authentication"
+msgstr "सर्वर प्रमाणीकरण"
+
+#: optcomp.src
+msgctxt ""
+"optcomp.src\n"
+"TP_OPTCOMPATIBILITY_PAGE\n"
+"FL_MAIN\n"
+"fixedline.text"
+msgid "Compatibility options for %DOCNAME"
+msgstr "%DOCNAME लेई तालमेल विकल्प"
+
+#: optcomp.src
+msgctxt ""
+"optcomp.src\n"
+"TP_OPTCOMPATIBILITY_PAGE\n"
+"FT_FORMATTING\n"
+"fixedtext.text"
+msgid "Recommended ~formatting options for"
+msgstr "रूप-रचना विकल्प लेई सफारशशुदा (~f)"
+
+#: optcomp.src
+msgctxt ""
+"optcomp.src\n"
+"TP_OPTCOMPATIBILITY_PAGE\n"
+"FT_OPTIONS\n"
+"fixedtext.text"
+msgid "~Options"
+msgstr "आप्शन (~O)"
+
+#: optcomp.src
+msgctxt ""
+"optcomp.src\n"
+"TP_OPTCOMPATIBILITY_PAGE\n"
+"PB_RESET\n"
+"pushbutton.text"
+msgid "~Reset"
+msgstr "परतियै सैट्ट करो (~R)"
+
+#: optcomp.src
+msgctxt ""
+"optcomp.src\n"
+"TP_OPTCOMPATIBILITY_PAGE\n"
+"PB_DEFAULT\n"
+"pushbutton.text"
+msgid "Use as ~Default"
+msgstr "बिलानिर्देश दे तौरा पर (~D)"
+
+#: optcomp.src
+msgctxt ""
+"optcomp.src\n"
+"TP_OPTCOMPATIBILITY_PAGE\n"
+"STR_USERENTRY\n"
+"string.text"
+msgid "<User settings>"
+msgstr "<बरतूनी सैट्टिंगां>"
+
+#: optcomp.src
+msgctxt ""
+"optcomp.src\n"
+"TP_OPTCOMPATIBILITY_PAGE\n"
+"STR_QRYBOX_USEASDEFAULT\n"
+"string.text"
+msgid ""
+"Do you want to change the compatibility options of the default template?\n"
+"This will affect all new documents based on the default template."
+msgstr ""
+"क्या तुस बिलानिर्देश सच्चे दे  अनूकूलता विकल्प(बहु.)बदलना चांह्‌दे ओ ?\n"
+" इस कन्नै बिलानिर्देश सच्चे पर अधारत सब नमें दस्तावेज प्रभावत होङन.  "
+
+#: optcomp.src
+msgctxt ""
+"optcomp.src\n"
+"TP_OPTCOMPATIBILITY_PAGE\n"
+"STR_PRINTER_METRICS\n"
+"string.text"
+msgid "Use printer metrics for document formatting"
+msgstr "दस्तावेज दी रूप-रचना लेई छापक मीट्रिक्स बरतो"
+
+#: optcomp.src
+msgctxt ""
+"optcomp.src\n"
+"TP_OPTCOMPATIBILITY_PAGE\n"
+"STR_MERGE_PARA_DIST\n"
+"string.text"
+msgid "Add spacing between paragraphs and tables (in current document)"
+msgstr "पैह्‌रें ते टेबलें बश्कार थाह्‌रबंदी जमा करो (मजूदा दस्तावेज च)"
+
+#: optcomp.src
+msgctxt ""
+"optcomp.src\n"
+"TP_OPTCOMPATIBILITY_PAGE\n"
+"STR_MERGE_PARA_DIST_PAGESTART\n"
+"string.text"
+msgid "Add paragraph and table spacing at tops of pages (in current document)"
+msgstr ""
+"सफें दे धुर उप्परें पर पैह्‌रा ते टेबल थाह्‌रबंदी जमा करो(मजूदा दस्तावेज च)"
+
+#: optcomp.src
+msgctxt ""
+"optcomp.src\n"
+"TP_OPTCOMPATIBILITY_PAGE\n"
+"STR_TAB_ALIGNMENT\n"
+"string.text"
+msgid "Use %WRITERCOMPATIBILITYVERSIONOOO11 tabstop formatting"
+msgstr "%WRITERCOMPATIBILITYVERSIONOOO11 टैबस्टाप रूप-रचना बरतो"
+
+#: optcomp.src
+msgctxt ""
+"optcomp.src\n"
+"TP_OPTCOMPATIBILITY_PAGE\n"
+"STR_EXTERNAL_LEADING\n"
+"string.text"
+msgid "Do not add leading (extra space) between lines of text"
+msgstr "इबारत दी सतरें बश्कार (बधीक थाह्‌र) जमा मत करो"
+
+#: optcomp.src
+msgctxt ""
+"optcomp.src\n"
+"TP_OPTCOMPATIBILITY_PAGE\n"
+"STR_LINE_SPACING\n"
+"string.text"
+msgid "Use %WRITERCOMPATIBILITYVERSIONOOO11 line spacing"
+msgstr "%WRITERCOMPATIBILITYVERSIONOOO11सतर थाह्‌रबंदी बरतो"
+
+#: optcomp.src
+msgctxt ""
+"optcomp.src\n"
+"TP_OPTCOMPATIBILITY_PAGE\n"
+"STR_ADD_TABLESPACING\n"
+"string.text"
+msgid "Add paragraph and table spacing at bottom of table cells"
+msgstr "टेबल सैल्लें दे थल्ले पर पैह्‌रा ते टेबल थाह्‌रबंदी जमा करो"
+
+#: optcomp.src
+msgctxt ""
+"optcomp.src\n"
+"TP_OPTCOMPATIBILITY_PAGE\n"
+"STR_USE_OBJPOSITIONING\n"
+"string.text"
+msgid "Use %WRITERCOMPATIBILITYVERSIONOOO11 object positioning"
+msgstr "%WRITERCOMPATIBILITYVERSIONOOO11चीज स्थितिकरण बरतो."
+
+#: optcomp.src
+msgctxt ""
+"optcomp.src\n"
+"TP_OPTCOMPATIBILITY_PAGE\n"
+"STR_USE_OURTEXTWRAPPING\n"
+"string.text"
+msgid "Use %WRITERCOMPATIBILITYVERSIONOOO11 text wrapping around objects"
+msgstr "चीजें दोआलै   %WRITERCOMPATIBILITYVERSIONOOO11 इबारत लपेट बरतो."
+
+#: optcomp.src
+msgctxt ""
+"optcomp.src\n"
+"TP_OPTCOMPATIBILITY_PAGE\n"
+"STR_CONSIDER_WRAPPINGSTYLE\n"
+"string.text"
+msgid "Consider wrapping style when positioning objects"
+msgstr "चीजें दा स्थितिकरण करदे बेल्लै लपेट शैली दा ध्यान रक्खो"
+
+#: optcomp.src
+msgctxt ""
+"optcomp.src\n"
+"TP_OPTCOMPATIBILITY_PAGE\n"
+"STR_EXPAND_WORDSPACE\n"
+"string.text"
+msgid "Expand word space on lines with manual line breaks in justified paragraphs"
+msgstr "बरोबर दे पैह्‌रें च लकीरें च शब्द थाह्‌र दस्ती लकीर खंडन कन्नै बधाओ"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_STD_FONT\n"
+"FL_STDCHR\n"
+"fixedline.text"
+msgid "Basic fonts (%1)"
+msgstr "बुनेआदी फांट (%1)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_STD_FONT\n"
+"FT_TYPE\n"
+"fixedtext.text"
+msgid "Font"
+msgstr "फांट"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_STD_FONT\n"
+"FT_SIZE\n"
+"fixedtext.text"
+msgid "Size"
+msgstr "नाप"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_STD_FONT\n"
+"FT_STANDARD\n"
+"fixedtext.text"
+msgid "De~fault"
+msgstr "डिफाल्ट (~f)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_STD_FONT\n"
+"FT_TITLE\n"
+"fixedtext.text"
+msgid "Headin~g"
+msgstr "सिरनांऽ (~g)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_STD_FONT\n"
+"FT_LIST\n"
+"fixedtext.text"
+msgid "~List"
+msgstr "सूची (~L)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_STD_FONT\n"
+"FT_LABEL\n"
+"fixedtext.text"
+msgid "C~aption"
+msgstr "सिरलेख (~a)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_STD_FONT\n"
+"FT_IDX\n"
+"fixedtext.text"
+msgid "~Index"
+msgstr "इंडैक्स (~I)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_STD_FONT\n"
+"CB_DOCONLY\n"
+"checkbox.text"
+msgid "C~urrent document only"
+msgstr "सिर्फ मजूदा दस्तावेज (~u)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_STD_FONT\n"
+"PB_STANDARD\n"
+"pushbutton.text"
+msgid "~Default"
+msgstr "डिफाल्ट (~D)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_STD_FONT\n"
+"ST_SCRIPT_ASIAN\n"
+"string.text"
+msgid "Asian"
+msgstr "एशियाई"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_STD_FONT\n"
+"ST_SCRIPT_CTL\n"
+"string.text"
+msgid "CTL"
+msgstr "CTL"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_STD_FONT\n"
+"ST_SCRIPT_WESTERN\n"
+"string.text"
+msgid "Western"
+msgstr "पच्छमीं"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"FL_TABLE\n"
+"fixedline.text"
+msgid "Default"
+msgstr "बिला निर्देश"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"CB_HEADER\n"
+"checkbox.text"
+msgid "H~eading"
+msgstr "सिरनांऽ (~e)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"CB_REPEAT_HEADER\n"
+"checkbox.text"
+msgid "Re~peat on each page"
+msgstr "हर सफे पर दर्‌हाओ (~p)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"CB_DONT_SPLIT\n"
+"checkbox.text"
+msgid "Do not split"
+msgstr "मत नखेड़ो"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"CB_BORDER\n"
+"checkbox.text"
+msgid "B~order"
+msgstr "बाडर (~o)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"FL_TABLE_INSERT\n"
+"fixedline.text"
+msgid "Input in tables"
+msgstr "टेबलें च इनपुट"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"CB_NUMFORMATTING\n"
+"checkbox.text"
+msgid "Number recognition"
+msgstr "नंबर पन्छान"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"CB_NUMFMT_FORMATTING\n"
+"checkbox.text"
+msgid "Number format recognition"
+msgstr "नंबर रूप-रचना पन्छान"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"CB_NUMALIGNMENT\n"
+"checkbox.text"
+msgid "Alignment"
+msgstr "समायोजन"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"FL_MOVE\n"
+"fixedline.text"
+msgid "Keyboard handling"
+msgstr "कुंजी पट्टी नरवाह्"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"FT_MOVE\n"
+"fixedtext.text"
+msgid "Move cells"
+msgstr "सैल्ल लेओ"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"FT_ROWMOVE\n"
+"fixedtext.text"
+msgid "~Row"
+msgstr "पंगताल (~R)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"FT_COLMOVE\n"
+"fixedtext.text"
+msgid "~Column"
+msgstr "स्तंभ (~C)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"FT_INSERT\n"
+"fixedtext.text"
+msgid "Insert cell"
+msgstr "सैल्लें दा समावेश करो"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"FT_ROWINSERT\n"
+"fixedtext.text"
+msgid "Ro~w"
+msgstr "पंगताल (~w)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"FT_COLINSERT\n"
+"fixedtext.text"
+msgid "Colu~mn"
+msgstr "स्तंभ (~m)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"FT_HANDLING\n"
+"fixedtext.text"
+msgid "Behavior of rows/columns"
+msgstr "पंगतालें ते स्तंभें दा ब्यहार"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"RB_FIX\n"
+"radiobutton.text"
+msgid "~Fixed"
+msgstr "स्थाई (~F)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"FT_FIX\n"
+"fixedtext.text"
+msgid "Changes affect the adjacent area only"
+msgstr "तब्दीलियां सिर्फ कन्नै लगदे खित्तें गी प्रभावत करदियां न"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"RB_FIXPROP\n"
+"radiobutton.text"
+msgid "Fi~xed, proportional"
+msgstr "स्थाई, निस्बतन (~x)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"FT_FIXPROP\n"
+"fixedtext.text"
+msgid "Changes affect the entire table"
+msgstr "तब्दीलियां सारे टेबल गी प्रभावत करदियां न"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"RB_VAR\n"
+"radiobutton.text"
+msgid "~Variable"
+msgstr "बदलनशील (~V)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTTABLE_PAGE\n"
+"FT_VAR\n"
+"fixedtext.text"
+msgid "Changes affect the table size"
+msgstr "तब्दीलियां टेबल नाप गी प्रभावत करदियां न"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"FL_NOPRINT\n"
+"fixedline.text"
+msgid "Display of"
+msgstr "दा प्रदर्शन"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"CB_PARA\n"
+"checkbox.text"
+msgid "Pa~ragraph end"
+msgstr "पैह्‌रा समाप्ति (~r)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"CB_SHYPH\n"
+"checkbox.text"
+msgid "Custom h~yphens"
+msgstr "लोड़ा मताबक जोड़-चिॕन्न (~y)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"CB_SPACE\n"
+"checkbox.text"
+msgid "Spac~es"
+msgstr "छिंडे (~e)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"CB_HSPACE\n"
+"checkbox.text"
+msgid "Non-breaking s~paces"
+msgstr "अखंडी छिंडे (~p)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"CB_TAB\n"
+"checkbox.text"
+msgid "Ta~bs"
+msgstr "टैब (~b)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"CB_BREAK\n"
+"checkbox.text"
+msgid "Brea~ks"
+msgstr "खंडन (~k)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"CB_CHAR_HIDDEN\n"
+"checkbox.text"
+msgid "Hidden text"
+msgstr "छप्पी दी इबारत"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"CB_FLD_HIDDEN\n"
+"checkbox.text"
+msgid "Fields: Hidden te~xt"
+msgstr "खेतर : छप्पी दी इबारत (~x)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"CB_FLD_HIDDEN_PARA\n"
+"checkbox.text"
+msgid "Fields: Hidden p~aragraphs"
+msgstr "खेतर : छप्पे दे पैह्‌रे (~a)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"FL_SHDWCRSFLAG\n"
+"fixedline.text"
+msgid "Direct cursor"
+msgstr "सिद्धा कर्सर"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"CB_SHDWCRSONOFF\n"
+"checkbox.text"
+msgid "~Direct cursor"
+msgstr "सिद्धा कर्सर (~D)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"FT_SHDWCRSFILLMODE\n"
+"fixedtext.text"
+msgid "Insert"
+msgstr "समावेश"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"RB_SHDWCRSFILLMARGIN\n"
+"radiobutton.text"
+msgid "Para~graph alignment"
+msgstr "पैह्‌रा सेधीकरण (~g)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"RB_SHDWCRSFILLINDENT\n"
+"radiobutton.text"
+msgid "~Left paragraph margin"
+msgstr "खब्बा पैह्‌रा हाशिया (~L)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"RB_SHDWCRSFILLTAB\n"
+"radiobutton.text"
+msgid "~Tabs"
+msgstr "टैब (~T)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"RB_SHDWCRSFILLSPACE\n"
+"radiobutton.text"
+msgid "Tabs a~nd spaces"
+msgstr "टैब ते छिंडे (~n)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"FL_CRSR_OPT\n"
+"fixedline.text"
+msgid "Cursor in protected areas"
+msgstr "कर्सर संरक्षत खित्तें च"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"CB_ALLOW_IN_PROT\n"
+"checkbox.text"
+msgid "Enable"
+msgstr "समर्थ करो (~b)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"FL_LAYOUT_OPTIONS\n"
+"fixedline.text"
+msgid "Layout assistance"
+msgstr "खाका सहायता"
+
+#: optdlg.src
+#, fuzzy
+msgctxt ""
+"optdlg.src\n"
+"TP_OPTSHDWCRSR\n"
+"CB_MATH_BASELINE_ALIGNMENT\n"
+"checkbox.text"
+msgid "Math baseline alignment"
+msgstr "गणित बेस-लाइन सेधीकरण"
+
+#: optdlg.src
+#, fuzzy
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"1\n"
+"itemlist.text"
+msgid "%PRODUCTNAME %s"
+msgstr "%PRODUCTNAME %s"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"2\n"
+"itemlist.text"
+msgid "Contents"
+msgstr "विशे-सूची"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"3\n"
+"itemlist.text"
+msgid "Page ba~ckground"
+msgstr "पछौकड़ (~c)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"4\n"
+"itemlist.text"
+msgid "P~ictures and other graphic objects"
+msgstr "तस्वीरां ते बाकी दूइयां ग्राफिक वस्तुआं (~i)"
+
+#: optdlg.src
+#, fuzzy
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"5\n"
+"itemlist.text"
+msgid "Hidden te~xt"
+msgstr "छप्पी दी इबारत (~x)"
+
+#: optdlg.src
+#, fuzzy
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"6\n"
+"itemlist.text"
+msgid "~Text placeholders"
+msgstr "इबारत प्लेस-होल्डर (~T)"
+
+#: optdlg.src
+#, fuzzy
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"7\n"
+"itemlist.text"
+msgid "Form control~s"
+msgstr "नियंत्रण (~s)"
+
+#: optdlg.src
+#, fuzzy
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"8\n"
+"itemlist.text"
+msgid "Color"
+msgstr "रंग"
+
+#: optdlg.src
+#, fuzzy
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"9\n"
+"itemlist.text"
+msgid "Print text in blac~k"
+msgstr "काला छापो (~k)"
+
+#: optdlg.src
+#, fuzzy
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"10\n"
+"itemlist.text"
+msgid "Pages"
+msgstr "सफे"
+
+#: optdlg.src
+#, fuzzy
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"11\n"
+"itemlist.text"
+msgid "Print ~automatically inserted blank pages"
+msgstr "समावेशत कोरे सफें पर अपने आप छापो (~a)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"12\n"
+"itemlist.text"
+msgid "~Use only paper tray from printer preferences"
+msgstr "प्रिंटर तरजीहें चा सिर्फ कागज ट्रेऽ बरतो. (~U)"
+
+#: optdlg.src
+#, fuzzy
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"13\n"
+"itemlist.text"
+msgid "Print"
+msgstr "छापो"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"14\n"
+"itemlist.text"
+msgid "None (document only)"
+msgstr "कोई नेईं ( सिर्फ दस्तावेज)"
+
+#: optdlg.src
+#, fuzzy
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"15\n"
+"itemlist.text"
+msgid "Comments only"
+msgstr "सिर्फ टिप्पणियां"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"16\n"
+"itemlist.text"
+msgid "Place at end of document"
+msgstr "दस्तावेज दे अंत च रक्खो"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"17\n"
+"itemlist.text"
+msgid "Place at end of page"
+msgstr "सफे दे अंत च रक्खो"
+
+#: optdlg.src
+#, fuzzy
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"18\n"
+"itemlist.text"
+msgid "~Comments"
+msgstr "नोट (~C)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"19\n"
+"itemlist.text"
+msgid "Page sides"
+msgstr "सफा पास्से"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"20\n"
+"itemlist.text"
+msgid "All pages"
+msgstr "सब सफे"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"21\n"
+"itemlist.text"
+msgid "Back sides / left pages"
+msgstr "पिछला पासा/खब्बे सफे"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"22\n"
+"itemlist.text"
+msgid "Front sides / right pages"
+msgstr "सामने पासे/सज्जे सफे"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"23\n"
+"itemlist.text"
+msgid "Include"
+msgstr "शामल करो"
+
+#: optdlg.src
+#, fuzzy
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"24\n"
+"itemlist.text"
+msgid "Broch~ure"
+msgstr "जानकारी पोथी (~u)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"25\n"
+"itemlist.text"
+msgid "Left-to-right script"
+msgstr "खब्बेआ सज्जै लिपि"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"26\n"
+"itemlist.text"
+msgid "Right-to-left script"
+msgstr "सज्जेआ खब्बै लिपि"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"27\n"
+"itemlist.text"
+msgid "Range and copies"
+msgstr "रेंज ते कापियां"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"28\n"
+"itemlist.text"
+msgid "~All pages"
+msgstr "सब सफे (~A)"
+
+#: optdlg.src
+#, fuzzy
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"29\n"
+"itemlist.text"
+msgid "Pa~ges"
+msgstr "सफें (~g)"
+
+#: optdlg.src
+#, fuzzy
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"30\n"
+"itemlist.text"
+msgid "~Selection"
+msgstr "चोन (~S)"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTLOAD_PAGE\n"
+"FL_UPDATE\n"
+"fixedline.text"
+msgid "Update"
+msgstr "अपडेट करो"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTLOAD_PAGE\n"
+"FT_LINK\n"
+"fixedtext.text"
+msgid "Update links when loading"
+msgstr "लोड करदे बेल्लै  कड़ियें गी अपडेट करो"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTLOAD_PAGE\n"
+"RB_ALWAYS\n"
+"radiobutton.text"
+msgid "~Always"
+msgstr " म्हेशा (~A)"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTLOAD_PAGE\n"
+"RB_REQUEST\n"
+"radiobutton.text"
+msgid "~On request"
+msgstr "बिनती उप्पर (~O)"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTLOAD_PAGE\n"
+"RB_NEVER\n"
+"radiobutton.text"
+msgid "~Never"
+msgstr " कदें नेईं (~N)"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTLOAD_PAGE\n"
+"FT_FIELD\n"
+"fixedtext.text"
+msgid "Automatically"
+msgstr "स्वचलत चाल्ली कन्नै"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTLOAD_PAGE\n"
+"CB_AUTO_UPDATE_FIELDS\n"
+"checkbox.text"
+msgid "~Fields"
+msgstr " खेतर (~F)"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTLOAD_PAGE\n"
+"CB_AUTO_UPDATE_CHARTS\n"
+"checkbox.text"
+msgid "~Charts"
+msgstr "चार्ट (~C)"
+
+#: optload.src
+#, fuzzy
+msgctxt ""
+"optload.src\n"
+"TP_OPTLOAD_PAGE\n"
+"FL_SETTINGS\n"
+"fixedline.text"
+msgid "Settings"
+msgstr "सैट्टिंगां"
+
+#: optload.src
+#, fuzzy
+msgctxt ""
+"optload.src\n"
+"TP_OPTLOAD_PAGE\n"
+"FT_METRIC\n"
+"fixedtext.text"
+msgid "Measurement unit"
+msgstr "मापक इकाई (~b)"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTLOAD_PAGE\n"
+"FT_TAB\n"
+"fixedtext.text"
+msgid "Tab stops"
+msgstr "टैब स्टाप"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTLOAD_PAGE\n"
+"CB_USE_SQUARE_PAGE_MODE\n"
+"checkbox.text"
+msgid "Use square page mode for text grid"
+msgstr "इबारत ग्रिड लेई चौरस सफा अवस्था दी बरतून करो."
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTLOAD_PAGE\n"
+"CB_USE_CHAR_UNIT\n"
+"checkbox.text"
+msgid "Enable char unit"
+msgstr "वर्ण यूनट गी समर्थ करो"
+
+#: optload.src
+#, fuzzy
+msgctxt ""
+"optload.src\n"
+"TP_OPTLOAD_PAGE\n"
+"FL_WORDCOUNT\n"
+"fixedline.text"
+msgid "Word Count"
+msgstr "शब्द गिनतरी"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTLOAD_PAGE\n"
+"FT_WORDCOUNT\n"
+"fixedtext.text"
+msgid "Additional separators"
+msgstr ""
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"FT_OBJECTS\n"
+"fixedtext.text"
+msgid ""
+"Add captions automatically\n"
+"when inserting:"
+msgstr ""
+"सिरलेख (बहु.) अपने आप जमाकरो\n"
+"समावेश करदे  बेल्लै: "
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"FT_ORDER\n"
+"fixedtext.text"
+msgid "Caption order"
+msgstr "सिरनांऽ क्रम"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE.LB_ORDER\n"
+"1\n"
+"stringlist.text"
+msgid "Category first"
+msgstr "पैह्‌ला कोटि"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE.LB_ORDER\n"
+"2\n"
+"stringlist.text"
+msgid "Numbering first"
+msgstr "पैह्‌ला संख्याकरण"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"STR_TABLE\n"
+"string.text"
+msgid "%PRODUCTNAME Writer Table"
+msgstr "%PRODUCTNAME लेखक टेबल"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"STR_FRAME\n"
+"string.text"
+msgid "%PRODUCTNAME Writer Frame"
+msgstr "%PRODUCTNAME लेखक चगाठ"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"STR_GRAPHIC\n"
+"string.text"
+msgid "%PRODUCTNAME Writer Picture"
+msgstr "%PRODUCTNAME लेखक चित्र"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"STR_OLE\n"
+"string.text"
+msgid "Other OLE Objects"
+msgstr "बाकी दूइयां OLE-चीजां"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"FL_SETTINGS_2\n"
+"fixedline.text"
+msgid "Caption"
+msgstr "सिरलेख"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"TXT_CATEGORY\n"
+"fixedtext.text"
+msgid "Category"
+msgstr "कैटेगरी"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"TXT_FORMAT\n"
+"fixedtext.text"
+msgid "~Numbering"
+msgstr "संख्याकरण (~N)"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"FT_NUM_SEP\n"
+"fixedtext.text"
+msgid "Numbering separator"
+msgstr "संख्याकरण-नखेड़ू"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"TXT_TEXT\n"
+"fixedtext.text"
+msgid "Separator"
+msgstr "नखेड़ू"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"TXT_POS\n"
+"fixedtext.text"
+msgid "Position"
+msgstr "स्थिति"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"FL_NUMCAPT\n"
+"fixedline.text"
+msgid "Numbering captions by chapter"
+msgstr "सिरनांएं दा संख्याकरण ध्याऽ मताबक होआ करदा ऐ"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"FT_LEVEL\n"
+"fixedtext.text"
+msgid "Level"
+msgstr "स्तर"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE.LB_LEVEL\n"
+"1\n"
+"stringlist.text"
+msgid "None"
+msgstr "कोई नेईं"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"FT_SEPARATOR\n"
+"fixedtext.text"
+msgid "Separator"
+msgstr "नखेड़ू"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"FL_CATEGORY\n"
+"fixedline.text"
+msgid "Category and frame format"
+msgstr "कोटि ते चगाठ रूप-रचना"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"FT_CHARSTYLE\n"
+"fixedtext.text"
+msgid "Character style"
+msgstr "वर्ण शैली"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE.LB_CHARSTYLE\n"
+"1\n"
+"stringlist.text"
+msgid "None"
+msgstr "कोई नेईं"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"CB_APPLYBORDER\n"
+"checkbox.text"
+msgid "Apply border and shadow"
+msgstr "बाडर ते छौरा इस्तेमाल करो"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"STR_BEGINNING\n"
+"string.text"
+msgid "At the beginning"
+msgstr "शुरुआत च"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"STR_END\n"
+"string.text"
+msgid "At the end"
+msgstr "समाप्ति च"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"STR_ABOVE\n"
+"string.text"
+msgid "Above"
+msgstr "उप्पर"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"STR_CP_BELOW\n"
+"string.text"
+msgid "Below"
+msgstr "खॕल्ल"
+
+#: optload.src
+#, fuzzy
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"STR_CATEGORY_NONE\n"
+"string.text"
+msgid "<None>"
+msgstr "<none>"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"TP_OPTCAPTION_PAGE\n"
+"tabpage.text"
+msgid "Caption"
+msgstr "सिरलेख"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"1\n"
+"itemlist.text"
+msgid "Millimeter"
+msgstr "मिलीमीटर"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"2\n"
+"itemlist.text"
+msgid "Centimeter"
+msgstr "सैंटीमीटर"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"3\n"
+"itemlist.text"
+msgid "Meter"
+msgstr "मीटर"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"4\n"
+"itemlist.text"
+msgid "Kilometer"
+msgstr "किलोमीटर"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"5\n"
+"itemlist.text"
+msgid "Inch"
+msgstr "इंच"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"6\n"
+"itemlist.text"
+msgid "Foot"
+msgstr "फुट"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"7\n"
+"itemlist.text"
+msgid "Miles"
+msgstr "मील"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"8\n"
+"itemlist.text"
+msgid "Pica"
+msgstr "पिका"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"9\n"
+"itemlist.text"
+msgid "Point"
+msgstr "बिंदु"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"10\n"
+"itemlist.text"
+msgid "Char"
+msgstr "वर्ण"
+
+#: optload.src
+#, fuzzy
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"11\n"
+"itemlist.text"
+msgid "Line"
+msgstr "लाइन"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT\n"
+"FL_TE\n"
+"fixedline.text"
+msgid "Text display"
+msgstr "इबारत प्रदर्शन"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT\n"
+"FT_CHG_INSERT\n"
+"fixedtext.text"
+msgid "Insertions"
+msgstr "समावेश"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT\n"
+"FT_INS_ATTR\n"
+"fixedtext.text"
+msgid "Attributes"
+msgstr "खासियतां"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT.LB_INS_ATTR\n"
+"1\n"
+"stringlist.text"
+msgid "[None]"
+msgstr "[कोई नेईं]"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT.LB_INS_ATTR\n"
+"2\n"
+"stringlist.text"
+msgid "Bold"
+msgstr "मुट्टा"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT.LB_INS_ATTR\n"
+"3\n"
+"stringlist.text"
+msgid "Italic"
+msgstr "इटैलिक"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT.LB_INS_ATTR\n"
+"4\n"
+"stringlist.text"
+msgid "Underlined"
+msgstr "रेखांकत"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT.LB_INS_ATTR\n"
+"5\n"
+"stringlist.text"
+msgid "Underlined: double"
+msgstr "रेखांकत: दोह्‌रा"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT.LB_INS_ATTR\n"
+"6\n"
+"stringlist.text"
+msgid "Strikethrough"
+msgstr "काटा"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT.LB_INS_ATTR\n"
+"7\n"
+"stringlist.text"
+msgid "Uppercase"
+msgstr "अंग्रेजी दे बड्डे अक्खर"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT.LB_INS_ATTR\n"
+"8\n"
+"stringlist.text"
+msgid "Lowercase"
+msgstr "लोअरकेस"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT.LB_INS_ATTR\n"
+"9\n"
+"stringlist.text"
+msgid "Small caps"
+msgstr "निक्के कैपिटल"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT.LB_INS_ATTR\n"
+"10\n"
+"stringlist.text"
+msgid "Title font"
+msgstr "शीर्शक फांट"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT.LB_INS_ATTR\n"
+"11\n"
+"stringlist.text"
+msgid "Background color"
+msgstr "पछौकड़ रंग"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT\n"
+"FT_INS_COL\n"
+"fixedtext.text"
+msgid "Color"
+msgstr "रंग"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT\n"
+"WIN_INS\n"
+"window.text"
+msgid "Insert"
+msgstr "समावेश"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT\n"
+"FT_CHG_DELETE\n"
+"fixedtext.text"
+msgid "Deletions"
+msgstr "म्हेसन"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT\n"
+"FT_DEL_ATTR\n"
+"fixedtext.text"
+msgid "Attributes"
+msgstr "खासियतां"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT\n"
+"FT_DEL_COL\n"
+"fixedtext.text"
+msgid "Color"
+msgstr "रंग"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT\n"
+"WIN_DEL\n"
+"window.text"
+msgid "Delete"
+msgstr "म्हेसो"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT\n"
+"FT_CHG_CHANGE\n"
+"fixedtext.text"
+msgid "Changed attributes"
+msgstr "बदलोई दियां खासियतां"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT\n"
+"FT_CHG_ATTR\n"
+"fixedtext.text"
+msgid "Attributes"
+msgstr "खासियतां"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT\n"
+"FT_CHG_COL\n"
+"fixedtext.text"
+msgid "Color"
+msgstr "रंग"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT\n"
+"WIN_CHG\n"
+"window.text"
+msgid "Attributes"
+msgstr "खासियतां"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT\n"
+"FL_LC\n"
+"fixedline.text"
+msgid "Lines changed"
+msgstr "लकीरां बदलोई गेइयां"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT\n"
+"FT_MARKPOS\n"
+"fixedtext.text"
+msgid "Mar~k"
+msgstr "चि'न्न (~k)"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT.LB_MARKPOS\n"
+"1\n"
+"stringlist.text"
+msgid "[None]"
+msgstr "[कोई नेईं]"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT.LB_MARKPOS\n"
+"2\n"
+"stringlist.text"
+msgid "Left margin"
+msgstr "खब्बा हाशिया"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT.LB_MARKPOS\n"
+"3\n"
+"stringlist.text"
+msgid "Right margin"
+msgstr "सज्जा हाशिया"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT.LB_MARKPOS\n"
+"4\n"
+"stringlist.text"
+msgid "Outer margin"
+msgstr "बाह्‌रला हाशिया"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT.LB_MARKPOS\n"
+"5\n"
+"stringlist.text"
+msgid "Inner margin"
+msgstr "अंदरला हाशिया"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT\n"
+"FT_LC_COL\n"
+"fixedtext.text"
+msgid "~Color"
+msgstr "रंग (~C)"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT\n"
+"STR_AUTHOR\n"
+"string.text"
+msgid "By author"
+msgstr "लेखक आसेआ"
+
+#: redlopt.src
+msgctxt ""
+"redlopt.src\n"
+"TP_REDLINE_OPT\n"
+"STR_NOTHING\n"
+"string.text"
+msgid "[None]"
+msgstr "[कोई नेईं]"

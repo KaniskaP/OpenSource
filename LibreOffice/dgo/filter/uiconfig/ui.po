@@ -1,0 +1,198 @@
+#. extracted from filter/uiconfig/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:06+0200\n"
+"PO-Revision-Date: 2013-03-01 17:20+0000\n"
+"Last-Translator: Stuart <stuart.swales.croftnuisk@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1362158449.0\n"
+
+#: testxmlfilter.ui
+msgctxt ""
+"testxmlfilter.ui\n"
+"TestXMLFilterDialog\n"
+"title\n"
+"string.text"
+msgid "Test XML Filter: %s"
+msgstr "परख XML पूनी: %s"
+
+#: testxmlfilter.ui
+msgctxt ""
+"testxmlfilter.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "XSLT for export"
+msgstr "बरामद लेई XSLT"
+
+#: testxmlfilter.ui
+msgctxt ""
+"testxmlfilter.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Transform document"
+msgstr "दस्तावेज रूपांतरत करो"
+
+#: testxmlfilter.ui
+msgctxt ""
+"testxmlfilter.ui\n"
+"exportbrowse\n"
+"label\n"
+"string.text"
+msgid "Browse..."
+msgstr "तपाश करो..."
+
+#: testxmlfilter.ui
+msgctxt ""
+"testxmlfilter.ui\n"
+"currentdocument\n"
+"label\n"
+"string.text"
+msgid "Current Document"
+msgstr ""
+
+#: testxmlfilter.ui
+msgctxt ""
+"testxmlfilter.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Export"
+msgstr "बरामद करो"
+
+#: testxmlfilter.ui
+msgctxt ""
+"testxmlfilter.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "XSLT for import"
+msgstr "दरामद लेई XSLT"
+
+#: testxmlfilter.ui
+msgctxt ""
+"testxmlfilter.ui\n"
+"importbrowse\n"
+"label\n"
+"string.text"
+msgid "Browse..."
+msgstr "तपाश करो..."
+
+#: testxmlfilter.ui
+msgctxt ""
+"testxmlfilter.ui\n"
+"recentfile\n"
+"label\n"
+"string.text"
+msgid "Recent File"
+msgstr ""
+
+#: testxmlfilter.ui
+msgctxt ""
+"testxmlfilter.ui\n"
+"templateimport\n"
+"label\n"
+"string.text"
+msgid "Template for import"
+msgstr "दरामद लेई सच्चा"
+
+#: testxmlfilter.ui
+msgctxt ""
+"testxmlfilter.ui\n"
+"displaysource\n"
+"label\n"
+"string.text"
+msgid "Display source"
+msgstr ""
+
+#: testxmlfilter.ui
+msgctxt ""
+"testxmlfilter.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Transform file"
+msgstr "फाइल रूपांतरत करो"
+
+#: testxmlfilter.ui
+msgctxt ""
+"testxmlfilter.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Import"
+msgstr "दरामद करो"
+
+#: xmlfiltersettings.ui
+msgctxt ""
+"xmlfiltersettings.ui\n"
+"XMLFilterSettingsDialog\n"
+"title\n"
+"string.text"
+msgid "XML Filter Settings"
+msgstr "XML पूनी सैट्टिंगां"
+
+#: xmlfiltersettings.ui
+msgctxt ""
+"xmlfiltersettings.ui\n"
+"new\n"
+"label\n"
+"string.text"
+msgid "_New..."
+msgstr "_New..."
+
+#: xmlfiltersettings.ui
+msgctxt ""
+"xmlfiltersettings.ui\n"
+"edit\n"
+"label\n"
+"string.text"
+msgid "_Edit..."
+msgstr "_Edit..."
+
+#: xmlfiltersettings.ui
+msgctxt ""
+"xmlfiltersettings.ui\n"
+"test\n"
+"label\n"
+"string.text"
+msgid "_Test XSLTs..."
+msgstr "_Test XSLTs..."
+
+#: xmlfiltersettings.ui
+msgctxt ""
+"xmlfiltersettings.ui\n"
+"delete\n"
+"label\n"
+"string.text"
+msgid "_Delete..."
+msgstr "_Delete..."
+
+#: xmlfiltersettings.ui
+msgctxt ""
+"xmlfiltersettings.ui\n"
+"save\n"
+"label\n"
+"string.text"
+msgid "_Save as Package..."
+msgstr "_Save as Package..."
+
+#: xmlfiltersettings.ui
+msgctxt ""
+"xmlfiltersettings.ui\n"
+"open\n"
+"label\n"
+"string.text"
+msgid "_Open Package..."
+msgstr "_Open Package..."
