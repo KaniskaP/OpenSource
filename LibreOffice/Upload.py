@@ -59,6 +59,10 @@ class MyTestCase(unittest.TestCase):
             shell = win32com.client.Dispatch("WScript.Shell")
             selectedFile = os.getcwd() + '\\' + lang + '\\' + comboBoxElementText
             selectedFile = selectedFile.replace("/", "\\")
+            shell.SendKeys("TAB", 0)
+            shell.SendKeys("TAB", 0)
+            shell.SendKeys("TAB", 0)
+            shell.SendKeys("TAB", 0)
             shell.SendKeys(selectedFile, 0)
             #self.driver.implicitly_wait(2000)
             time.sleep(2)
