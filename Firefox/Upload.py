@@ -20,7 +20,7 @@ def get_data(data):
     return rows
 
 @ddt
-class MyTestCase(unittest.TestCase):
+class Firefox(unittest.TestCase):
     def setUp(self):
         self.driver = webdriver.Firefox()
         time.sleep(11)
